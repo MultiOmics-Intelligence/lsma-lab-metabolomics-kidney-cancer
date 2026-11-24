@@ -1,0 +1,578 @@
+metabolite	status	fraction_missing	qc_rsd_percent	sample_to_blank_ratio
+1,2-propanediol	kept	0.035714		
+1,3-dihydroxyacetone	kept	0.46071		
+1,5-anhydroglucitol (1,5-AG)	kept	0.014286		
+10-heptadecenoate (17:1n7)	kept	0.0		
+10-nonadecenoate (19:1n9)	kept	0.0		
+13-HODE + 9-HODE	kept	0.0		
+15-methylpalmitate (isobar with 2-methylpalmitate)	kept	0.0035714		
+16-hydroxypalmitate	kept	0.035714		
+1-arachidonoylglycerophosphocholine*	kept	0.0035714		
+1-arachidonoylglycerophosphoethanolamine*	kept	0.0		
+1-arachidonoylglycerophosphoinositol*	kept	0.0		
+1-arachidonylglycerol	missing too often	0.73214		
+1-docosahexaenoylglycerophosphocholine*	kept	0.31071		
+1-heptadecanoylglycerophosphocholine	kept	0.2		
+1-heptadecanoylglycerophosphoethanolamine*	kept	0.31429		
+1-linoleoylglycerol (1-monolinolein)	kept	0.10714		
+1-linoleoylglycerophosphocholine	kept	0.0		
+1-linoleoylglycerophosphoethanolamine*	kept	0.0		
+1-methylimidazoleacetate	kept	0.14286		
+1-myristoylglycerophosphocholine	kept	0.11429		
+1-myristoylglycerophosphoethanolamine	kept	0.67143		
+1-oleoylglycerol (1-monoolein)	kept	0.017857		
+1-oleoylglycerophosphocholine	kept	0.0		
+1-oleoylglycerophosphoethanolamine	kept	0.0		
+1-oleoylglycerophosphoinositol*	kept	0.028571		
+1-oleoylglycerophosphoserine	kept	0.0035714		
+1-palmitoleoylglycerophosphocholine*	kept	0.035714		
+1-palmitoleoylglycerophosphoethanolamine*	kept	0.58214		
+1-palmitoylglycerol (1-monopalmitin)	kept	0.0035714		
+1-palmitoylglycerophosphocholine	kept	0.0		
+1-palmitoylglycerophosphoethanolamine	kept	0.0		
+1-palmitoylglycerophosphoinositol*	kept	0.017857		
+1-palmitoylplasmenylethanolamine*	kept	0.0		
+1-pentadecanoylglycerophosphocholine*	kept	0.3		
+1-stearoylglycerol (1-monostearin)	kept	0.0035714		
+1-stearoylglycerophosphocholine	kept	0.0		
+1-stearoylglycerophosphoethanolamine	kept	0.067857		
+1-stearoylglycerophosphoinositol	kept	0.0035714		
+2-aminoadipate	kept	0.0035714		
+2-aminobutyrate	kept	0.0035714		
+2-arachidonoylglycerophosphocholine*	kept	0.0		
+2-arachidonoylglycerophosphoethanolamine*	kept	0.0		
+2'-deoxyadenosine 3'-monophosphate	kept	0.275		
+2'-deoxycytidine 3'-monophosphate	missing too often	0.925		
+2'-deoxyguanosine	kept	0.11071		
+2'-deoxyinosine	kept	0.29286		
+2-docosahexaenoylglycerophosphocholine*	kept	0.16786		
+2-docosahexaenoylglycerophosphoethanolamine*	kept	0.16786		
+2-docosapentaenoylglycerophosphocholine*	kept	0.49286		
+2-docosapentaenoylglycerophosphoethanolamine*	missing too often	0.62857		
+2-eicosatrienoylglycerophosphocholine*	kept	0.38929		
+2-ethylhexanoate	kept	0.0035714		
+2-hydroxyacetaminophen sulfate*	missing too often	0.975		
+2-hydroxybutyrate (AHB)	kept	0.0035714		
+2-hydroxyglutarate	kept	0.0035714		
+2-hydroxyhippurate (salicylurate)	missing too often	0.89286		
+2-hydroxyisobutyrate	kept	0.28214		
+2-hydroxypalmitate	kept	0.18214		
+2-isopropylmalate	kept	0.30357		
+2-linoleoylglycerol (2-monolinolein)	kept	0.52857		
+2-linoleoylglycerophosphocholine*	kept	0.0		
+2-linoleoylglycerophosphoethanolamine*	kept	0.05		
+2-methoxyacetaminophen sulfate*	missing too often	0.98214		
+2-methylbutyrylcarnitine (C5)	kept	0.0035714		
+2-myristoylglycerophosphocholine*	kept	0.36786		
+2-oleoylglycerol (2-monoolein)	missing too often	0.68214		
+2-oleoylglycerophosphocholine*	kept	0.0		
+2-oleoylglycerophosphoethanolamine*	kept	0.010714		
+2-oleoylglycerophosphoserine*	kept	0.11786		
+2-palmitoleoylglycerophosphocholine*	kept	0.11429		
+2-palmitoylglycerol (2-monopalmitin)	kept	0.17143		
+2-palmitoylglycerophosphocholine*	kept	0.0035714		
+2-palmitoylglycerophosphoethanolamine*	kept	0.16071		
+2-phosphoglycerate	kept	0.24643		
+2-stearoylglycerophosphocholine*	kept	0.13929		
+2-stearoylglycerophosphoethanolamine*	kept	0.68571		
+3-(4-hydroxyphenyl)lactate	kept	0.20357		
+3-(cystein-S-yl)acetaminophen*	missing too often	0.95357		
+3-(N-acetyl-L-cystein-S-yl) acetaminophen*	missing too often	0.94643		
+3,4-dihydroxyphenethyleneglycol	kept	0.625		
+3-aminoisobutyrate	kept	0.0035714		
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	kept	0.28214		
+3-dehydrocarnitine*	kept	0.0		
+3'-dephosphocoenzyme A	missing too often	0.68214		
+3-hydroxybutyrate (BHBA)	kept	0.0035714		
+3-hydroxydecanoate	kept	0.35714		
+3-hydroxyhippurate	kept	0.54643		
+3-hydroxyoctanoate	kept	0.29286		
+3-indoxyl sulfate	kept	0.5		
+3-methyl-2-oxovalerate	kept	0.45		
+3-methylglutarylcarnitine (C6)	kept	0.275		
+3-methylhistidine	kept	0.53571		
+3-phosphoglycerate	kept	0.0071429		
+3-ureidopropionate	kept	0.33214		
+4-acetamidophenol	missing too often	0.92857		
+4-acetaminophen sulfate	missing too often	0.91429		
+4-androsten-3beta,17beta-diol disulfate 1*	kept	0.4		
+4-guanidinobutanoate	kept	0.060714		
+4-hydroxybutyrate (GHB)	kept	0.0035714		
+4-hydroxyglutamate	kept	0.60357		
+4-hydroxyhippurate	kept	0.45714		
+4-hydroxyphenylacetate	kept	0.47857		
+4-methyl-2-oxopentanoate	kept	0.4		
+5,6-dihydrouracil	kept	0.17857		
+5-aminovalerate	kept	0.49643		
+5-HETE	kept	0.275		
+5-methyltetrahydrofolate (5MeTHF)	kept	0.51429		
+5-methylthioadenosine (MTA)	kept	0.028571		
+5-methyluridine (ribothymidine)	missing too often	0.89643		
+5-oxoETE	kept	0.24286		
+5-oxoproline	kept	0.0		
+6-keto prostaglandin F1alpha	missing too often	0.71071		
+6-phosphogluconate	kept	0.11429		
+6'-sialyllactose	kept	0.046429		
+7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	kept	0.16071		
+7-alpha-hydroxycholesterol	missing too often	0.68214		
+7-beta-hydroxycholesterol	kept	0.43929		
+acetylcarnitine	kept	0.0		
+Ac-Ser-Asp-Lys-Pro-OH	kept	0.046429		
+adenine	kept	0.0071429		
+adenosine	kept	0.0071429		
+adenosine 2'-monophosphate (2'-AMP)	kept	0.0		
+adenosine 3'-monophosphate (3'-AMP)	kept	0.017857		
+adenosine 5'-monophosphate (AMP)	kept	0.0		
+adenylosuccinate	kept	0.42143		
+adipate	kept	0.32143		
+adrenate (22:4n6)	kept	0.0		
+agmatine	kept	0.025		
+alanine	kept	0.0035714		
+alanylalanine	kept	0.175		
+alanylglutamate	kept	0.26071		
+alanylglycine	kept	0.021429		
+alanylisoleucine	kept	0.10357		
+alanylleucine	kept	0.0035714		
+alanylmethionine	kept	0.24286		
+alanylphenylalanine	kept	0.2		
+alanylthreonine	missing too often	0.55357		
+alanyltryptophan	kept	0.22857		
+alanyltyrosine	kept	0.11786		
+alanylvaline	kept	0.035714		
+allo-threonine	kept	0.52857		
+alpha-glutamylglutamate	kept	0.125		
+alpha-glutamyltryptophan	missing too often	0.65		
+alpha-glutamyltyrosine	kept	0.28929		
+alpha-hydroxyisovalerate	kept	0.05		
+alpha-tocopherol	kept	0.0071429		
+androsterone sulfate	kept	0.26071		
+anserine	missing too often	0.74643		
+arabitol	kept	0.0071429		
+arabonate	kept	0.021429		
+arachidate (20:0)	kept	0.19286		
+arachidonate (20:4n6)	kept	0.0		
+arginine	kept	0.0		
+argininosuccinate	kept	0.43571		
+arginylleucine	kept	0.28214		
+arginylmethionine	missing too often	0.83929		
+arginylphenylalanine	kept	0.28929		
+arginyltyrosine	kept	0.525		
+arginylvaline	kept	0.035714		
+ascorbate (Vitamin C)	kept	0.0071429		
+asparagine	kept	0.0035714		
+aspartate	kept	0.0035714		
+aspartate-glutamate	kept	0.085714		
+aspartylleucine	kept	0.0		
+aspartylphenylalanine	kept	0.082143		
+aspartyltryptophan	kept	0.071429		
+aspartylvaline	kept	0.425		
+atenolol	missing too often	0.94286		
+azelate (nonanedioate)	kept	0.039286		
+benzoate	kept	0.0035714		
+beta-alanine	kept	0.0035714		
+beta-hydroxypyruvate	missing too often	0.82143		
+betaine	kept	0.15714		
+beta-tocopherol	kept	0.59286		
+bilirubin (E,E)*	missing too often	0.95		
+bilirubin (Z,Z)	missing too often	0.85714		
+butyrylcarnitine	kept	0.0		
+caprate (10:0)	kept	0.0		
+caproate (6:0)	kept	0.0035714		
+caprylate (8:0)	kept	0.053571		
+carnitine	kept	0.0		
+catechol sulfate	kept	0.51071		
+celecoxib	missing too often	0.99286		
+C-glycosyltryptophan*	kept	0.0		
+chiro-inositol	kept	0.4		
+cholate	missing too often	0.79643		
+cholesterol	kept	0.0035714		
+choline	kept	0.0		
+choline phosphate	kept	0.0		
+cinnamoylglycine	missing too often	0.86071		
+cis-aconitate	kept	0.11786		
+cis-vaccenate (18:1n7)	kept	0.010714		
+citalopram	missing too often	0.98571		
+citramalate	kept	0.28929		
+citrate	kept	0.0035714		
+citrulline	kept	0.014286		
+codeine	missing too often	0.99286		
+cortisol	missing too often	0.91429		
+cortisone	kept	0.61429		
+creatine	kept	0.0		
+creatinine	kept	0.0		
+cysteine	kept	0.0035714		
+cysteine-glutathione disulfide	kept	0.32857		
+cysteinylglycine	missing too often	0.89286		
+cystine	kept	0.15357		
+cytidine	kept	0.11786		
+cytidine 5'-diphosphocholine	kept	0.24286		
+cytidine 5'-monophosphate (5'-CMP)	kept	0.0035714		
+cytidine-3'-monophosphate (3'-CMP)	kept	0.56071		
+cytosine-2',3'-cyclic monophosphate	kept	0.26429		
+deoxycarnitine	kept	0.0035714		
+dihomo-linoleate (20:2n6)	kept	0.0		
+dihomo-linolenate (20:3n3 or n6)	kept	0.0		
+dihydrocholesterol	kept	0.30714		
+dimethylarginine (SDMA + ADMA)	kept	0.060714		
+dimethylglycine	kept	0.025		
+docosadienoate (22:2n6)	kept	0.11071		
+docosahexaenoate (DHA; 22:6n3)	kept	0.0		
+docosapentaenoate (n3 DPA; 22:5n3)	kept	0.0		
+docosapentaenoate (n6 DPA; 22:5n6)	kept	0.05		
+docosatrienoate (22:3n3)	kept	0.0		
+dodecanedioate	missing too often	0.69286		
+eicosapentaenoate (EPA; 20:5n3)	kept	0.0		
+eicosenoate (20:1n9 or 11)	kept	0.0		
+epinephrine	missing too often	0.99643		
+ergothioneine	kept	0.0035714		
+erucate (22:1n9)	kept	0.375		
+erythritol	kept	0.0035714		
+erythronate*	kept	0.0035714		
+ethanolamine	kept	0.0035714		
+flavin adenine dinucleotide (FAD)	kept	0.15357		
+fructose	kept	0.0035714		
+fructose 1-phosphate	kept	0.21429		
+fructose-6-phosphate	kept	0.0035714		
+fucose	kept	0.042857		
+fumarate	kept	0.0035714		
+gabapentin	missing too often	0.97857		
+galactose	kept	0.14643		
+gamma-aminobutyrate (GABA)	kept	0.0035714		
+gamma-glutamylcysteine	kept	0.21429		
+gamma-glutamylglutamate	kept	0.10714		
+gamma-glutamylglutamine	kept	0.43214		
+gamma-glutamylisoleucine*	kept	0.28214		
+gamma-glutamylleucine	kept	0.0035714		
+gamma-glutamylphenylalanine	kept	0.067857		
+gamma-glutamylvaline	kept	0.30714		
+gamma-tocopherol	kept	0.17143		
+glucarate (saccharate)	kept	0.19643		
+gluconate	kept	0.0035714		
+glucose	kept	0.0035714		
+glucose 1-phosphate	kept	0.50357		
+glucose-6-phosphate (G6P)	kept	0.0071429		
+glucuronate	kept	0.11071		
+glutamate	kept	0.0		
+glutamate, gamma-methyl ester	kept	0.0		
+glutamine	kept	0.0		
+glutarate (pentanedioate)	kept	0.1		
+glutarylcarnitine (C5)	kept	0.57857		
+glutathione, oxidized (GSSG)	missing too often	0.75		
+glutathione, reduced (GSH)	kept	0.47143		
+glycerate	kept	0.0035714		
+glycerol	kept	0.0035714		
+glycerol 2-phosphate	kept	0.0035714		
+glycerol 3-phosphate (G3P)	kept	0.0035714		
+glycerophosphoethanolamine	kept	0.046429		
+glycerophosphorylcholine (GPC)	kept	0.0		
+glycine	kept	0.0035714		
+glycocholenate sulfate*	missing too often	0.91786		
+glycolate (hydroxyacetate)	kept	0.0035714		
+glycolithocholate sulfate*	missing too often	0.72857		
+glycylglycine	kept	0.025		
+glycylisoleucine	kept	0.028571		
+glycylleucine	kept	0.0		
+glycyllysine	kept	0.32857		
+glycylmethionine	kept	0.064286		
+glycylphenylalanine	kept	0.58571		
+glycylproline	kept	0.0071429		
+glycylthreonine	kept	0.014286		
+glycyltryptophan	kept	0.3		
+glycyltyrosine	kept	0.067857		
+glycylvaline	kept	0.0071429		
+guanidinoacetate	kept	0.45		
+guanine	kept	0.53214		
+guanosine	kept	0.0		
+guanosine 5'- monophosphate (5'-GMP)	kept	0.18571		
+gulono-1,4-lactone	kept	0.039286		
+heme	kept	0.55		
+hexanoylcarnitine	kept	0.0035714		
+hippurate	kept	0.0071429		
+histamine	kept	0.36071		
+histidine	kept	0.0		
+histidylleucine	kept	0.0071429		
+histidylmethionine	missing too often	0.63929		
+histidylphenylalanine	kept	0.38571		
+histidyltryptophan	kept	0.59643		
+histidyltyrosine	missing too often	0.78214		
+homocysteine	kept	0.28929		
+homoserine	kept	0.43929		
+homostachydrine*	kept	0.35		
+hydantoin-5-propionic acid	missing too often	0.99643		
+hydrochlorothiazide	missing too often	0.99286		
+hypotaurine	kept	0.0035714		
+hypoxanthine	kept	0.0		
+imidazole propionate	kept	0.175		
+indoleacetate	kept	0.19286		
+indolelactate	kept	0.26071		
+inosine	kept	0.0		
+inositol 1-phosphate (I1P)	kept	0.0035714		
+Isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate	kept	0.60714		
+Isobar: ribulose 5-phosphate, xylulose 5-phosphate	kept	0.0035714		
+isobutyrylcarnitine	kept	0.0035714		
+isoleucine	kept	0.0		
+isoleucylalanine	kept	0.046429		
+isoleucylarginine	kept	0.125		
+isoleucylglutamate	kept	0.24286		
+isoleucylglycine	kept	0.0		
+isoleucylhistidine	kept	0.26786		
+isoleucylisoleucine	kept	0.23929		
+isoleucylmethionine	kept	0.33214		
+isoleucylphenylalanine	kept	0.23929		
+isoleucylserine	kept	0.028571		
+isoleucyltryptophan	kept	0.42857		
+isoleucyltyrosine	kept	0.46071		
+isoleucylvaline	kept	0.060714		
+isovalerylcarnitine	kept	0.057143		
+kynurenine	kept	0.0		
+lactate	kept	0.0035714		
+laurate (12:0)	kept	0.0		
+laurylcarnitine	kept	0.50357		
+leucine	kept	0.0		
+leucylalanine	kept	0.035714		
+leucylarginine	kept	0.10357		
+leucylasparagine	kept	0.067857		
+leucylglutamate	kept	0.12857		
+leucylglycine	kept	0.014286		
+leucylhistidine	kept	0.425		
+leucylleucine	kept	0.025		
+leucylmethionine	kept	0.36429		
+leucylphenylalanine	kept	0.41429		
+leucylserine	kept	0.33929		
+leucyltryptophan	kept	0.33571		
+leucyltyrosine	missing too often	0.7		
+lidocaine	kept	0.014286		
+linoleate (18:2n6)	kept	0.0		
+linolenate [alpha or gamma; (18:3n3 or 6)]	kept	0.0		
+lipitor	missing too often	0.99643		
+L-urobilin	missing too often	0.76429		
+lysine	kept	0.0		
+lysylleucine	kept	0.082143		
+lysyllysine	kept	0.085714		
+lysylmethionine	kept	0.49643		
+lysyltyrosine	kept	0.20357		
+malate	kept	0.0035714		
+malonylcarnitine	kept	0.078571		
+maltohexaose	missing too often	0.81429		
+maltopentaose	kept	0.73929		
+maltose	kept	0.13929		
+maltotetraose	kept	0.19286		
+maltotriose	kept	0.27143		
+mannitol	kept	0.0071429		
+mannose	kept	0.0035714		
+mannose-6-phosphate	kept	0.089286		
+margarate (17:0)	kept	0.0		
+metformin	missing too often	0.96786		
+methionine	kept	0.0		
+methionylalanine	kept	0.62857		
+methionylasparagine	kept	0.55		
+methionylaspartate	missing too often	0.61429		
+methionylglutamate	kept	0.33929		
+methionylglycine	kept	0.34286		
+methionylleucine	kept	0.51071		
+methionylphenylalanine	kept	0.47143		
+methyl-alpha-glucopyranoside	kept	0.0035714		
+methylphosphate	kept	0.0035714		
+metoprolol	missing too often	0.83571		
+metoprolol acid metabolite*	missing too often	0.83214		
+myo-inositol	kept	0.0035714		
+myristate (14:0)	kept	0.0		
+myristoleate (14:1n5)	kept	0.0035714		
+myristoylcarnitine	kept	0.085714		
+N1-Methyl-2-pyridone-5-carboxamide	kept	0.057143		
+N1-methyladenosine	kept	0.23571		
+N1-methylguanosine	kept	0.22143		
+N2,N2-dimethylguanosine	kept	0.36786		
+N2-acetyllysine	kept	0.05		
+N2-methylguanosine	kept	0.25		
+N6-acetyllysine	kept	0.0071429		
+N6-carbamoylthreonyladenosine	kept	0.375		
+N-6-trimethyllysine	kept	0.0035714		
+N-acetylalanine	kept	0.017857		
+N-acetylarginine	kept	0.44286		
+N-acetylasparagine	kept	0.10714		
+N-acetylaspartate (NAA)	kept	0.010714		
+N-acetyl-aspartyl-glutamate (NAAG)	kept	0.29643		
+N-acetylglucosamine	kept	0.41786		
+N-acetylglucosamine 6-phosphate	kept	0.0035714		
+N-acetylglutamine	kept	0.078571		
+N-acetylglycine	kept	0.039286		
+N-acetylisoleucine	kept	0.4		
+N-acetylleucine	kept	0.28571		
+N-acetylmethionine	kept	0.060714		
+N-acetylneuraminate	kept	0.0		
+N-acetylornithine	kept	0.12857		
+N-acetylphenylalanine	kept	0.625		
+N-acetylserine	kept	0.039286		
+N-acetylthreonine	kept	0.38214		
+N-acetyltryptophan	missing too often	0.85357		
+N-acetyltyrosine	missing too often	0.7		
+N-acetylvaline	kept	0.35		
+naproxen	missing too often	0.99643		
+nervonate (24:1n9)	kept	0.48571		
+nicotinamide	kept	0.0		
+nicotinamide adenine dinucleotide (NAD+)	kept	0.060714		
+nicotinamide adenine dinucleotide reduced (NADH)	missing too often	0.76071		
+nicotinamide ribonucleotide (NMN)	kept	0.1		
+nicotinamide riboside*	kept	0.325		
+nicotinate	kept	0.13929		
+nicotinate adenine dinucleotide (NAAD+)	missing too often	0.99643		
+N-methylglutamate	kept	0.33214		
+octanoylcarnitine	kept	0.16786		
+oleate (18:1n9)	kept	0.0035714		
+oleoylcarnitine	kept	0.028571		
+ophthalmate	missing too often	0.83214		
+ornithine	kept	0.0035714		
+p-acetamidophenylglucuronide	missing too often	0.92857		
+palmitate (16:0)	kept	0.0		
+palmitoleate (16:1n7)	kept	0.0		
+palmitoyl sphingomyelin	kept	0.0035714		
+palmitoylcarnitine	kept	0.0035714		
+pantothenate	kept	0.0		
+paroxetine	missing too often	0.99286		
+p-cresol sulfate	kept	0.010714		
+pelargonate (9:0)	kept	0.0		
+penicillin G	missing too often	0.97857		
+pentadecanoate (15:0)	kept	0.035714		
+phenol red	missing too often	0.91429		
+phenol sulfate	kept	0.028571		
+phenylacetylglutamine	kept	0.014286		
+phenylalanine	kept	0.0		
+phenylalanylalanine	kept	0.05		
+phenylalanylarginine	missing too often	0.77857		
+phenylalanylaspartate	kept	0.23929		
+phenylalanylglutamate	kept	0.067857		
+phenylalanylglycine	kept	0.26071		
+phenylalanylleucine	kept	0.15357		
+phenylalanylmethionine	kept	0.48214		
+phenylalanylphenylalanine	kept	0.45714		
+phenylalanylproline	kept	0.48929		
+phenylalanylserine	kept	0.16071		
+phenylalanyltryptophan	missing too often	0.68214		
+phenylalanyltyrosine	kept	0.60357		
+phenylalanylvaline	kept	0.25357		
+phosphate	kept	0.0035714		
+phosphoenolpyruvate (PEP)	kept	0.14286		
+phosphoethanolamine	kept	0.0		
+phytosphingosine	kept	0.44643		
+pipecolate	kept	0.23929		
+piperine	kept	0.14286		
+pivaloylcarnitine	kept	0.53571		
+pregnanediol-3-glucuronide	missing too often	0.85357		
+pregnen-diol disulfate*	missing too often	0.65714		
+pro-hydroxy-pro	kept	0.039286		
+proline	kept	0.0		
+prolylglycine	kept	0.16429		
+prolylmethionine	kept	0.14286		
+propionylcarnitine	kept	0.0		
+prostaglandin A2	missing too often	0.9		
+prostaglandin E2	missing too often	0.83571		
+pseudouridine	kept	0.10714		
+putrescine	kept	0.053571		
+pyridoxal	kept	0.18214		
+pyridoxate	kept	0.4		
+pyroglutamine*	kept	0.0035714		
+pyrophosphate (PPi)	kept	0.23571		
+quebrachitol	kept	0.53929		
+quinate	kept	0.1		
+quinidine	missing too often	0.97857		
+quinolinate	missing too often	0.58571		
+ranitidine	missing too often	0.97857		
+ribitol	kept	0.0071429		
+riboflavin (Vitamin B2)	kept	0.05		
+ribose	kept	0.0071429		
+ribulose	kept	0.0071429		
+saccharopine	missing too often	0.76429		
+S-adenosylhomocysteine (SAH)	kept	0.0		
+S-adenosylmethionine (SAM)	kept	0.014286		
+salicylate	missing too often	0.99286		
+sarcosine (N-Methylglycine)	kept	0.071429		
+scyllo-inositol	kept	0.0035714		
+sedoheptulose-7-phosphate	kept	0.025		
+serine	kept	0.0035714		
+serylisoleucine*	kept	0.075		
+serylleucine	kept	0.0		
+serylphenyalanine	kept	0.017857		
+serylvaline	kept	0.078571		
+S-methylcysteine	kept	0.010714		
+sorbitol	kept	0.125		
+sorbitol 6-phosphate	kept	0.175		
+spermidine	kept	0.010714		
+spermine	missing too often	0.64643		
+sphinganine	kept	0.58214		
+sphingosine	kept	0.092857		
+squalene	kept	0.41429		
+stachydrine	kept	0.046429		
+stearate (18:0)	kept	0.0		
+stearidonate (18:4n3)	kept	0.0035714		
+stearoylcarnitine	kept	0.035714		
+streptomycin	missing too often	0.98571		
+succinate	kept	0.0035714		
+succinylcarnitine	kept	0.1		
+tartarate	kept	0.55714		
+taurine	kept	0.0035714		
+testosterone	kept	0.18214		
+theobromine	kept	0.42857		
+threitol	kept	0.21429		
+threonate	kept	0.0035714		
+threonine	kept	0.0035714		
+threonylglutamate	kept	0.25714		
+threonylleucine	kept	0.067857		
+threonylmethionine	kept	0.28571		
+threonylphenylalanine	kept	0.23571		
+threonylvaline	missing too often	0.76786		
+thymidine	missing too often	0.86429		
+thymine	kept	0.042857		
+trans-4-hydroxyproline	kept	0.21786		
+trans-urocanate	kept	0.33929		
+triethyleneglycol	kept	0.0		
+trigonelline (N'-methylnicotinate)	kept	0.082143		
+tryptophan	kept	0.0		
+tryptophan betaine	kept	0.18214		
+tryptophylasparagine	kept	0.28571		
+tryptophylglutamate	kept	0.13929		
+tryptophylleucine	kept	0.52143		
+tyrosine	kept	0.0		
+tyrosylalanine	kept	0.13214		
+tyrosylglutamine	kept	0.046429		
+tyrosylglycine	kept	0.014286		
+tyrosylhistidine	kept	0.032143		
+tyrosylleucine	kept	0.10714		
+tyrosyllysine	missing too often	0.81786		
+tyrosylphenylalanine	kept	0.31429		
+tyrosyltyrosine	missing too often	0.63214		
+tyrosylvaline	kept	0.32857		
+undecanedioate	kept	0.36429		
+uracil	kept	0.0035714		
+urate	kept	0.0035714		
+urea	kept	0.0035714		
+uridine	kept	0.0		
+uridine monophosphate (5' or 3')	kept	0.16786		
+valerylcarnitine	kept	0.071429		
+valine	kept	0.0		
+valylalanine	kept	0.0		
+valylarginine	kept	0.16071		
+valylasparagine	missing too often	0.6		
+valylaspartate	kept	0.035714		
+valylglutamate	kept	0.0071429		
+valylglutamine	kept	0.021429		
+valylglycine	kept	0.0071429		
+valylhistidine	kept	0.41071		
+valylisoleucine	kept	0.035714		
+valylleucine	kept	0.0071429		
+valyllysine	kept	0.4		
+valylmethionine	kept	0.12857		
+valylphenylalanine	kept	0.046429		
+valylserine	kept	0.38214		
+valyltryptophan	kept	0.18571		
+valyltyrosine	kept	0.19643		
+valylvaline	kept	0.046429		
+vanillylmandelate (VMA)	kept	0.45714		
+venlafaxine	missing too often	0.98929		
+VGAHAGEYGAEALER*	kept	0.67857		
+xanthine	kept	0.0		
+xanthosine	kept	0.064286		
+xylitol	kept	0.0035714		
+xylonate	kept	0.017857		
+xylose	kept	0.32143		
+xylulose	kept	0.014286		

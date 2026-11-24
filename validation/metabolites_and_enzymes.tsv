@@ -1,0 +1,13 @@
+label	metabolite	met_lfc	met_padj	enzyme	protein_lfc	protein_padj	rna_lfc	rna_padj
+"Glycogen store: breakdown products up,
+glycogen synthase up"	maltotriose	5.6848	0.0	GYS1	1.4408	0.0	0.83942	0.0
+"Kynurenine up,
+IDO1 (makes it) up"	kynurenine	2.8655	0.0	IDO1	1.6628	0.0	4.1193	0.0
+"2-hydroxyglutarate up,
+L2HGDH (removes it) down"	2-hydroxyglutarate	1.9902	0.0	L2HGDH	-1.3581	0.0	-1.5833	0.0
+"Fumarate down,
+fumarate hydratase down"	fumarate	-1.7416	0.0	FH	-0.99339	0.0	-0.95676	0.0
+"Citrate up,
+ATP citrate lyase up"	citrate	2.8674	0.0	ACLY	1.25	0.0	1.4114	0.0
+"N-acetylaspartate down,
+NAT8L (makes it) down"	N-acetylaspartate (NAA)	-3.4476	0.0	NAT8L			-6.6054	0.0

@@ -1,0 +1,4 @@
+metabolites	matched	same_direction	pct_same	also_significant
+Strong changes (padj < 0.05, |log2FC| > 1)	119	113	95.0	90.0
+All significant (padj < 0.05)	225	200	88.9	123.0
+All matched	271	224	82.7	

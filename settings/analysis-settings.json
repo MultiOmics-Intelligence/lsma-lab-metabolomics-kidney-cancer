@@ -1,0 +1,95 @@
+{
+  "workflow": "metabolomics",
+  "workflow_version": "1.0.0",
+  "lab_run_time": "1 min 0 s (upload of the table: about 1 s)",
+  "validation_run_time": "30 s (independent cohort, 18 pairs)",
+  "robustness_run_time": "1 min 0 s (without the 3 low-signal pairs)",
+  "parameters": {
+    "input": {
+      "sample_type_column": null,
+      "run_order_column": null,
+      "sample_preparation": {
+        "version": 1,
+        "condition": "tissue",
+        "relabel": {},
+        "groups": [
+          "normal",
+          "tumour"
+        ],
+        "reference": "normal",
+        "excluded": {},
+        "covariates": [
+          "patient"
+        ],
+        "pairing": "patient"
+      }
+    },
+    "qc": {
+      "max_missing_fraction": 0.5,
+      "max_qc_rsd": 30,
+      "min_sample_to_blank": 3,
+      "group_column": null
+    },
+    "normalisation": {
+      "method": "pqn",
+      "imputation": "half_min"
+    },
+    "exploration": {
+      "scaling": "pareto",
+      "color_by": null,
+      "n_heatmap_metabolites": 50
+    },
+    "differential_abundance": {
+      "group_column": "tissue",
+      "test_level": "tumour",
+      "reference_level": "normal",
+      "covariates": [
+        "patient"
+      ],
+      "alpha": 0.05,
+      "lfc_threshold": 0,
+      "trend": false,
+      "robust": false,
+      "p_adjust_method": "BH"
+    },
+    "multivariate": {
+      "enabled": true,
+      "orthogonal": true,
+      "scaling": "pareto",
+      "permutations": 200
+    }
+  },
+  "software_versions": {
+    "input": {
+      "R": "4.5.2",
+      "data.table": "1.18.6.1",
+      "jsonlite": "2.0.0",
+      "Bioconductor": "3.21"
+    },
+    "qc": {
+      "R": "4.5.2",
+      "jsonlite": "2.0.0",
+      "Bioconductor": "3.21"
+    },
+    "normalisation": {
+      "R": "4.5.2",
+      "jsonlite": "2.0.0",
+      "Bioconductor": "3.21"
+    },
+    "exploration": {
+      "R": "4.5.2",
+      "jsonlite": "2.0.0",
+      "Bioconductor": "3.21"
+    },
+    "differential_abundance": {
+      "R": "4.5.2",
+      "limma": "3.64.3",
+      "Bioconductor": "3.21"
+    },
+    "multivariate": {
+      "R": "4.5.2",
+      "ropls": "1.40.0",
+      "Bioconductor": "3.21"
+    }
+  }
+}

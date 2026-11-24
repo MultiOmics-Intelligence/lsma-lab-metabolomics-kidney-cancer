@@ -1,0 +1,3 @@
+run	metabolites_tested	significant	significant_in_both	fold_change_correlation
+Main (140 pairs)	500	405		
+Without the 3 low-signal pairs (137 pairs)	497	407	400.0	0.9996

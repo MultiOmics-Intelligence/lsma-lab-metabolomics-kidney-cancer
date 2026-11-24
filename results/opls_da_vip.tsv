@@ -1,0 +1,501 @@
+metabolite	vip	loading	higher_in
+1-heptadecanoylglycerophosphoethanolamine*	2.791	-0.1249	normal
+maltotriose	2.78	0.1244	tumour
+1-palmitoylglycerophosphoethanolamine	2.74	-0.1226	normal
+2-palmitoylglycerophosphoethanolamine*	2.709	-0.1213	normal
+maltose	2.688	0.1203	tumour
+1-oleoylglycerophosphoethanolamine	2.487	-0.1113	normal
+vanillylmandelate (VMA)	2.368	-0.106	normal
+glucose 1-phosphate	2.245	0.1005	tumour
+N-acetylaspartate (NAA)	2.24	-0.1002	normal
+4-hydroxyhippurate	2.227	-0.09968	normal
+N-acetyl-aspartyl-glutamate (NAAG)	2.213	-0.09905	normal
+maltotetraose	2.211	0.09897	tumour
+phenylacetylglutamine	2.193	-0.09814	normal
+fructose 1-phosphate	2.171	0.09719	tumour
+2-oleoylglycerophosphoethanolamine*	2.132	-0.09543	normal
+glucose-6-phosphate (G6P)	2.117	0.09475	tumour
+hippurate	2.084	-0.09326	normal
+1-stearoylglycerophosphoethanolamine	2.047	-0.09162	normal
+N2,N2-dimethylguanosine	2.021	-0.09047	normal
+1-palmitoleoylglycerophosphoethanolamine*	2.011	-0.09002	normal
+1-palmitoylplasmenylethanolamine*	1.998	-0.08942	normal
+kynurenine	1.998	0.08942	tumour
+mannose-6-phosphate	1.99	0.08906	tumour
+fructose-6-phosphate	1.979	0.0886	tumour
+glutathione, reduced (GSH)	1.966	0.08799	tumour
+citramalate	1.953	-0.08739	normal
+cysteine-glutathione disulfide	1.934	0.08655	tumour
+N1-methylguanosine	1.933	-0.08654	normal
+1-linoleoylglycerophosphoethanolamine*	1.927	-0.08624	normal
+phenylalanylalanine	1.868	0.08362	tumour
+2-stearoylglycerophosphoethanolamine*	1.85	-0.08281	normal
+indoleacetate	1.839	-0.08231	normal
+alpha-tocopherol	1.806	0.08084	tumour
+pyridoxate	1.787	-0.07997	normal
+phenylalanylserine	1.784	0.07984	tumour
+N2-methylguanosine	1.764	-0.07893	normal
+eicosenoate (20:1n9 or 11)	1.758	0.07866	tumour
+3-hydroxyhippurate	1.731	-0.07748	normal
+glucose	1.729	0.07737	tumour
+1-palmitoylglycerophosphoinositol*	1.726	-0.07727	normal
+pantothenate	1.724	-0.07717	normal
+5-methyltetrahydrofolate (5MeTHF)	1.712	-0.07664	normal
+citrate	1.708	0.07644	tumour
+erucate (22:1n9)	1.707	0.07638	tumour
+flavin adenine dinucleotide (FAD)	1.668	-0.07464	normal
+methyl-alpha-glucopyranoside	1.667	0.07463	tumour
+gamma-tocopherol	1.665	0.07453	tumour
+N-acetylglutamine	1.644	0.07356	tumour
+scyllo-inositol	1.62	-0.07252	normal
+tryptophan	1.61	-0.07206	normal
+N1-methyladenosine	1.605	-0.07184	normal
+1-myristoylglycerophosphoethanolamine	1.605	-0.07183	normal
+pseudouridine	1.602	-0.07172	normal
+N6-acetyllysine	1.585	-0.07095	normal
+ergothioneine	1.574	0.07044	tumour
+4-hydroxyphenylacetate	1.543	-0.06904	normal
+2-hydroxyglutarate	1.534	0.06864	tumour
+gamma-glutamylglutamate	1.524	0.0682	tumour
+fructose	1.524	0.06819	tumour
+nervonate (24:1n9)	1.523	0.06817	tumour
+N6-carbamoylthreonyladenosine	1.507	-0.06746	normal
+arginylphenylalanine	1.505	0.06736	tumour
+myo-inositol	1.495	-0.06692	normal
+isovalerylcarnitine	1.477	-0.0661	normal
+3,4-dihydroxyphenethyleneglycol	1.47	-0.0658	normal
+1-stearoylglycerophosphoinositol	1.469	-0.06576	normal
+glucuronate	1.462	-0.06543	normal
+phenylalanylaspartate	1.454	0.06506	tumour
+3-methylglutarylcarnitine (C6)	1.449	-0.06485	normal
+5-oxoETE	1.446	-0.06473	normal
+5-HETE	1.444	-0.06462	normal
+dimethylarginine (SDMA + ADMA)	1.443	-0.06458	normal
+arachidonate (20:4n6)	1.442	-0.06453	normal
+2-methylbutyrylcarnitine (C5)	1.438	-0.06436	normal
+leucylhistidine	1.434	0.06418	tumour
+threonylphenylalanine	1.429	0.06397	tumour
+lysyltyrosine	1.426	0.06382	tumour
+glycylthreonine	1.418	-0.06347	normal
+7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	1.418	0.06346	tumour
+putrescine	1.412	0.06319	tumour
+malonylcarnitine	1.41	-0.0631	normal
+fumarate	1.409	-0.06306	normal
+beta-alanine	1.406	0.06295	tumour
+4-hydroxyglutamate	1.395	0.06246	tumour
+5,6-dihydrouracil	1.38	0.06175	tumour
+beta-tocopherol	1.374	0.06151	tumour
+laurylcarnitine	1.36	0.06086	tumour
+acetylcarnitine	1.351	0.06047	tumour
+gamma-aminobutyrate (GABA)	1.346	-0.06023	normal
+tyrosylvaline	1.339	0.05995	tumour
+arabitol	1.329	-0.0595	normal
+sorbitol	1.308	0.05854	tumour
+serine	1.299	-0.05812	normal
+1-oleoylglycerophosphoinositol*	1.293	-0.05789	normal
+arginylleucine	1.287	0.05761	tumour
+pyridoxal	1.287	-0.05759	normal
+dihomo-linoleate (20:2n6)	1.274	0.05702	tumour
+2-hydroxyisobutyrate	1.266	-0.05665	normal
+VGAHAGEYGAEALER*	1.261	0.05646	tumour
+1-pentadecanoylglycerophosphocholine*	1.259	-0.05637	normal
+maltopentaose	1.251	0.05601	tumour
+phenylalanylleucine	1.241	0.05553	tumour
+histidylleucine	1.236	0.05534	tumour
+N-acetylmethionine	1.235	0.05526	tumour
+2-linoleoylglycerophosphoethanolamine*	1.231	-0.0551	normal
+1-heptadecanoylglycerophosphocholine	1.23	-0.05506	normal
+N-methylglutamate	1.23	-0.05506	normal
+methionylalanine	1.226	0.05487	tumour
+docosahexaenoate (DHA; 22:6n3)	1.218	-0.05451	normal
+docosadienoate (22:2n6)	1.216	0.05444	tumour
+N-acetylneuraminate	1.216	0.05443	tumour
+leucylserine	1.208	0.05407	tumour
+nicotinamide adenine dinucleotide (NAD+)	1.205	-0.05391	normal
+creatinine	1.202	-0.0538	normal
+tryptophan betaine	1.2	0.05369	tumour
+serylleucine	1.197	0.0536	tumour
+3-aminoisobutyrate	1.197	0.05356	tumour
+gluconate	1.191	-0.05331	normal
+docosatrienoate (22:3n3)	1.189	0.05322	tumour
+phenylalanylphenylalanine	1.182	0.05288	tumour
+1-arachidonoylglycerophosphoethanolamine*	1.181	-0.05287	normal
+glycylvaline	1.173	-0.05252	normal
+1-oleoylglycerophosphocholine	1.171	-0.0524	normal
+glycerophosphoethanolamine	1.167	-0.05222	normal
+threonine	1.163	-0.05206	normal
+1-palmitoylglycerophosphocholine	1.157	-0.05179	normal
+oleoylcarnitine	1.155	0.05168	tumour
+cis-aconitate	1.151	0.0515	tumour
+2-aminoadipate	1.15	0.05148	tumour
+10-nonadecenoate (19:1n9)	1.14	0.05104	tumour
+N-acetylalanine	1.137	-0.05089	normal
+pro-hydroxy-pro	1.134	-0.05075	normal
+trans-urocanate	1.132	-0.05065	normal
+sarcosine (N-Methylglycine)	1.129	0.05055	tumour
+phenylalanylproline	1.123	0.05027	tumour
+asparagine	1.121	-0.05018	normal
+glycylglycine	1.115	-0.04993	normal
+adipate	1.115	-0.04991	normal
+6-phosphogluconate	1.11	0.04969	tumour
+tyrosylphenylalanine	1.099	0.0492	tumour
+prolylglycine	1.091	-0.04883	normal
+inositol 1-phosphate (I1P)	1.09	-0.0488	normal
+aspartylleucine	1.085	0.04854	tumour
+riboflavin (Vitamin B2)	1.083	-0.04845	normal
+2-palmitoleoylglycerophosphocholine*	1.082	0.04845	tumour
+xanthosine	1.082	-0.04845	normal
+guanidinoacetate	1.078	-0.04827	normal
+phenylalanylglycine	1.077	0.0482	tumour
+tryptophylleucine	1.077	0.04819	tumour
+phenylalanyltyrosine	1.071	0.04792	tumour
+pyroglutamine*	1.068	0.0478	tumour
+aspartate	1.06	-0.04746	normal
+alanylphenylalanine	1.054	0.04719	tumour
+1-oleoylglycerophosphoserine	1.054	-0.04718	normal
+Isobar: ribulose 5-phosphate, xylulose 5-phosphate	1.043	0.04669	tumour
+methionine	1.042	-0.04664	normal
+threitol	1.041	-0.04661	normal
+proline	1.038	-0.04645	normal
+tyrosylleucine	1.036	0.04637	tumour
+glutarylcarnitine (C5)	1.036	-0.04636	normal
+cytidine 5'-monophosphate (5'-CMP)	1.035	0.04634	tumour
+sphingosine	1.03	0.04609	tumour
+cortisone	1.03	-0.04608	normal
+tartarate	1.026	-0.04592	normal
+ethanolamine	1.024	-0.04581	normal
+5-aminovalerate	1.023	0.04577	tumour
+malate	1.018	-0.04558	normal
+tyrosine	1.016	-0.04547	normal
+guanosine 5'- monophosphate (5'-GMP)	1.016	0.04547	tumour
+glutamate, gamma-methyl ester	1.015	-0.04542	normal
+alanylleucine	1.011	0.04527	tumour
+tyrosylalanine	1.011	0.04525	tumour
+S-adenosylhomocysteine (SAH)	1.005	0.04497	tumour
+1-myristoylglycerophosphocholine	1.004	-0.04493	normal
+arachidate (20:0)	0.9887	0.04425	tumour
+phosphoenolpyruvate (PEP)	0.9795	-0.04384	normal
+valylmethionine	0.9772	0.04374	tumour
+octanoylcarnitine	0.973	0.04355	tumour
+phenylalanylmethionine	0.9688	0.04336	tumour
+Isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate	0.9678	0.04332	tumour
+glycylphenylalanine	0.9667	0.04327	tumour
+histidine	0.9641	-0.04315	normal
+1-arachidonoylglycerophosphoinositol*	0.9589	-0.04292	normal
+gamma-glutamylglutamine	0.9579	0.04287	tumour
+isoleucyltyrosine	0.953	0.04265	tumour
+xylitol	0.9467	-0.04237	normal
+3-(4-hydroxyphenyl)lactate	0.9466	0.04237	tumour
+valerylcarnitine	0.9433	-0.04222	normal
+N-acetylarginine	0.9418	0.04215	tumour
+adenosine 3'-monophosphate (3'-AMP)	0.9354	-0.04187	normal
+guanosine	0.9353	0.04186	tumour
+trigonelline (N'-methylnicotinate)	0.9329	-0.04175	normal
+uridine monophosphate (5' or 3')	0.9326	0.04174	tumour
+N-acetylglucosamine 6-phosphate	0.9318	0.04171	tumour
+histamine	0.9303	0.04164	tumour
+phenylalanylglutamate	0.9216	0.04125	tumour
+2-hydroxypalmitate	0.9152	0.04096	tumour
+tyrosylglutamine	0.911	0.04077	tumour
+glycylproline	0.9071	0.0406	tumour
+serylphenyalanine	0.9061	0.04056	tumour
+valine	0.9006	-0.04031	normal
+cytidine-3'-monophosphate (3'-CMP)	0.8936	-0.04	normal
+isoleucine	0.8882	-0.03975	normal
+heme	0.8828	0.03951	tumour
+pivaloylcarnitine	0.8825	-0.0395	normal
+sphinganine	0.8769	0.03925	tumour
+docosapentaenoate (n6 DPA; 22:5n6)	0.8707	-0.03897	normal
+1-stearoylglycerophosphocholine	0.8677	-0.03883	normal
+xylose	0.8674	-0.03882	normal
+hypoxanthine	0.8629	-0.03862	normal
+methionylleucine	0.8616	0.03856	tumour
+homoserine	0.8541	0.03823	tumour
+leucine	0.8518	-0.03813	normal
+phenylalanine	0.8514	-0.03811	normal
+isobutyrylcarnitine	0.8483	-0.03797	normal
+adenosine 2'-monophosphate (2'-AMP)	0.8468	-0.0379	normal
+1-methylimidazoleacetate	0.8402	-0.03761	normal
+1-docosahexaenoylglycerophosphocholine*	0.8312	-0.0372	normal
+xylulose	0.8273	0.03703	tumour
+gamma-glutamylisoleucine*	0.8267	-0.037	normal
+10-heptadecenoate (17:1n7)	0.8198	0.03669	tumour
+palmitoylcarnitine	0.8197	0.03669	tumour
+spermidine	0.8194	0.03667	tumour
+valyltryptophan	0.8184	0.03663	tumour
+1-palmitoleoylglycerophosphocholine*	0.8165	-0.03654	normal
+glutamate	0.8148	0.03647	tumour
+gulono-1,4-lactone	0.8131	-0.03639	normal
+2-stearoylglycerophosphocholine*	0.8124	-0.03636	normal
+histidylphenylalanine	0.8097	0.03624	tumour
+alanyltyrosine	0.808	0.03616	tumour
+gamma-glutamylcysteine	0.7998	0.0358	tumour
+eicosapentaenoate (EPA; 20:5n3)	0.7994	-0.03578	normal
+threonylleucine	0.7887	0.0353	tumour
+leucylleucine	0.788	0.03527	tumour
+cytidine	0.7869	-0.03522	normal
+N-acetylserine	0.7868	-0.03522	normal
+N-acetylleucine	0.7859	0.03518	tumour
+3-methylhistidine	0.7858	-0.03517	normal
+arginyltyrosine	0.7766	0.03476	tumour
+myristoylcarnitine	0.7618	0.03409	tumour
+squalene	0.7567	-0.03387	normal
+creatine	0.7497	0.03355	tumour
+urea	0.7429	-0.03325	normal
+2-isopropylmalate	0.7409	-0.03316	normal
+valylleucine	0.7342	0.03286	tumour
+homostachydrine*	0.7334	0.03282	tumour
+succinate	0.7289	0.03262	tumour
+phenol sulfate	0.7272	-0.03255	normal
+cytosine-2',3'-cyclic monophosphate	0.725	-0.03245	normal
+androsterone sulfate	0.7242	-0.03241	normal
+methionylglycine	0.724	0.0324	tumour
+stearidonate (18:4n3)	0.7235	0.03238	tumour
+mannose	0.723	0.03236	tumour
+nicotinamide ribonucleotide (NMN)	0.7083	-0.0317	normal
+2-myristoylglycerophosphocholine*	0.7076	0.03167	tumour
+mannitol	0.7062	-0.03161	normal
+xanthine	0.701	-0.03137	normal
+catechol sulfate	0.6989	-0.03128	normal
+N-acetylasparagine	0.6986	0.03127	tumour
+3-indoxyl sulfate	0.6949	-0.0311	normal
+leucylglutamate	0.6847	0.03064	tumour
+linolenate [alpha or gamma; (18:3n3 or 6)]	0.6843	0.03063	tumour
+phenylalanylvaline	0.6776	0.03033	tumour
+glycerophosphorylcholine (GPC)	0.676	0.03026	tumour
+tyrosylhistidine	0.6754	0.03023	tumour
+chiro-inositol	0.6752	-0.03022	normal
+methionylasparagine	0.67	0.02999	tumour
+hexanoylcarnitine	0.6647	0.02975	tumour
+uracil	0.6645	-0.02974	normal
+ribulose	0.6577	0.02944	tumour
+trans-4-hydroxyproline	0.6546	-0.0293	normal
+lysylleucine	0.6533	0.02924	tumour
+aspartyltryptophan	0.6507	-0.02912	normal
+isoleucylmethionine	0.6463	0.02892	tumour
+valylphenylalanine	0.6442	0.02883	tumour
+2-linoleoylglycerol (2-monolinolein)	0.6437	0.02881	tumour
+sedoheptulose-7-phosphate	0.6401	0.02865	tumour
+alanylglutamate	0.6344	0.02839	tumour
+undecanedioate	0.633	0.02833	tumour
+N1-Methyl-2-pyridone-5-carboxamide	0.621	-0.0278	normal
+inosine	0.6209	0.02779	tumour
+valylarginine	0.6207	0.02778	tumour
+leucylalanine	0.6206	0.02777	tumour
+Ac-Ser-Asp-Lys-Pro-OH	0.6144	0.0275	tumour
+aspartate-glutamate	0.6125	-0.02741	normal
+adenosine 5'-monophosphate (AMP)	0.6123	0.0274	tumour
+lysine	0.6089	-0.02725	normal
+isoleucyltryptophan	0.6088	0.02725	tumour
+tyrosylglycine	0.6067	0.02715	tumour
+methionylglutamate	0.6037	0.02702	tumour
+quinate	0.6036	-0.02702	normal
+valyltyrosine	0.5992	0.02682	tumour
+tryptophylasparagine	0.5964	0.02669	tumour
+1-stearoylglycerol (1-monostearin)	0.5964	-0.02669	normal
+palmitoleate (16:1n7)	0.5952	0.02664	tumour
+sorbitol 6-phosphate	0.5931	0.02654	tumour
+p-cresol sulfate	0.5929	-0.02654	normal
+4-hydroxybutyrate (GHB)	0.5909	0.02645	tumour
+alanyltryptophan	0.5878	0.02631	tumour
+15-methylpalmitate (isobar with 2-methylpalmitate)	0.5864	0.02624	tumour
+oleate (18:1n9)	0.5861	0.02623	tumour
+glutamine	0.5844	0.02615	tumour
+7-beta-hydroxycholesterol	0.5823	0.02606	tumour
+1-oleoylglycerol (1-monoolein)	0.5784	0.02589	tumour
+cystine	0.5765	0.0258	tumour
+histidyltryptophan	0.5738	0.02568	tumour
+citrulline	0.5699	0.02551	tumour
+leucylphenylalanine	0.5673	0.02539	tumour
+choline	0.5647	-0.02528	normal
+lactate	0.5636	0.02522	tumour
+N-6-trimethyllysine	0.5628	-0.02519	normal
+butyrylcarnitine	0.5571	0.02494	tumour
+linoleate (18:2n6)	0.5527	0.02474	tumour
+cis-vaccenate (18:1n7)	0.5473	0.0245	tumour
+6'-sialyllactose	0.5394	0.02414	tumour
+glycyltyrosine	0.5367	0.02402	tumour
+leucylglycine	0.5364	0.02401	tumour
+alanylmethionine	0.5313	0.02378	tumour
+stearate (18:0)	0.5256	0.02353	tumour
+guanine	0.5171	0.02315	tumour
+gamma-glutamylphenylalanine	0.5145	-0.02303	normal
+isoleucylglycine	0.5134	-0.02298	normal
+methylphosphate	0.513	-0.02296	normal
+valylglutamate	0.4948	0.02215	tumour
+aspartylphenylalanine	0.493	0.02207	tumour
+adenosine	0.4882	-0.02185	normal
+alanine	0.4804	-0.0215	normal
+choline phosphate	0.4751	0.02126	tumour
+pentadecanoate (15:0)	0.4724	0.02114	tumour
+alpha-glutamyltyrosine	0.4709	0.02107	tumour
+3-phosphoglycerate	0.4677	-0.02093	normal
+glucarate (saccharate)	0.4663	0.02087	tumour
+N-acetylthreonine	0.4649	0.02081	tumour
+arginine	0.4645	-0.02079	normal
+glycerol 2-phosphate	0.4599	0.02058	tumour
+leucylmethionine	0.4599	-0.02058	normal
+urate	0.4541	-0.02032	normal
+myristoleate (14:1n5)	0.4534	-0.02029	normal
+dihydrocholesterol	0.4464	0.01998	tumour
+N-acetylphenylalanine	0.4455	-0.01994	normal
+2-aminobutyrate	0.4429	0.01982	tumour
+N-acetylisoleucine	0.442	0.01978	tumour
+1-linoleoylglycerol (1-monolinolein)	0.4362	0.01952	tumour
+allo-threonine	0.4359	-0.01951	normal
+phosphate	0.4326	-0.01936	normal
+aspartylvaline	0.4264	-0.01909	normal
+2-oleoylglycerophosphoserine*	0.4254	-0.01904	normal
+valylserine	0.4252	0.01903	tumour
+valylglycine	0.4218	-0.01888	normal
+carnitine	0.4181	0.01871	tumour
+glycolate (hydroxyacetate)	0.4179	-0.0187	normal
+arginylvaline	0.4126	0.01847	tumour
+1,3-dihydroxyacetone	0.4054	0.01814	tumour
+5-methylthioadenosine (MTA)	0.4034	0.01805	tumour
+imidazole propionate	0.4033	-0.01805	normal
+betaine	0.3983	-0.01783	normal
+deoxycarnitine	0.3943	0.01765	tumour
+leucylasparagine	0.394	0.01763	tumour
+glycylmethionine	0.3929	0.01758	tumour
+2'-deoxyinosine	0.3829	0.01714	tumour
+valylhistidine	0.3803	-0.01702	normal
+1-linoleoylglycerophosphocholine	0.3796	-0.01699	normal
+propionylcarnitine	0.3715	-0.01663	normal
+cytidine 5'-diphosphocholine	0.3697	0.01655	tumour
+hypotaurine	0.3693	0.01653	tumour
+glycylisoleucine	0.3619	-0.0162	normal
+lysylmethionine	0.3546	0.01587	tumour
+tryptophylglutamate	0.3542	0.01585	tumour
+5-oxoproline	0.3521	-0.01576	normal
+succinylcarnitine	0.3422	-0.01532	normal
+2'-deoxyadenosine 3'-monophosphate	0.3377	0.01512	tumour
+threonylmethionine	0.3338	0.01494	tumour
+isoleucylserine	0.3297	0.01475	tumour
+laurate (12:0)	0.3283	-0.01469	normal
+margarate (17:0)	0.3279	0.01468	tumour
+threonate	0.3226	0.01444	tumour
+cholesterol	0.322	0.01441	tumour
+3-hydroxyoctanoate	0.3202	-0.01433	normal
+stachydrine	0.3202	0.01433	tumour
+caproate (6:0)	0.3163	-0.01416	normal
+azelate (nonanedioate)	0.3152	0.01411	tumour
+2-oleoylglycerophosphocholine*	0.3134	-0.01403	normal
+stearoylcarnitine	0.3132	0.01402	tumour
+isoleucylalanine	0.3119	0.01396	tumour
+isoleucylisoleucine	0.3108	0.01391	tumour
+valylalanine	0.3096	0.01386	tumour
+2-phosphoglycerate	0.3053	-0.01366	normal
+palmitate (16:0)	0.3038	0.0136	tumour
+S-methylcysteine	0.3025	-0.01354	normal
+2-palmitoylglycerophosphocholine*	0.3009	-0.01347	normal
+caprylate (8:0)	0.2983	-0.01335	normal
+benzoate	0.2958	-0.01324	normal
+isoleucylarginine	0.2955	-0.01323	normal
+indolelactate	0.2918	-0.01306	normal
+1-arachidonoylglycerophosphocholine*	0.2868	-0.01283	normal
+homocysteine	0.2769	-0.01239	normal
+2-ethylhexanoate	0.2745	-0.01229	normal
+glycyllysine	0.2742	0.01227	tumour
+1-palmitoylglycerol (1-monopalmitin)	0.2614	-0.0117	normal
+glycine	0.2613	-0.0117	normal
+caprate (10:0)	0.2605	-0.01166	normal
+S-adenosylmethionine (SAM)	0.2583	0.01156	tumour
+ribitol	0.2566	-0.01149	normal
+threonylglutamate	0.2566	-0.01148	normal
+3-hydroxydecanoate	0.256	-0.01146	normal
+3-ureidopropionate	0.2542	0.01138	tumour
+adrenate (22:4n6)	0.2514	0.01125	tumour
+glycerol 3-phosphate (G3P)	0.2488	-0.01114	normal
+theobromine	0.2484	-0.01112	normal
+2-arachidonoylglycerophosphoethanolamine*	0.2367	-0.0106	normal
+2-docosahexaenoylglycerophosphocholine*	0.2366	-0.01059	normal
+nicotinamide	0.2358	-0.01055	normal
+isoleucylhistidine	0.2309	-0.01033	normal
+leucyltryptophan	0.226	0.01011	tumour
+fucose	0.2255	-0.01009	normal
+valylglutamine	0.2203	0.009862	tumour
+nicotinate	0.2195	0.009825	tumour
+serylvaline	0.2165	0.00969	tumour
+valylvaline	0.2081	0.009313	tumour
+adenylosuccinate	0.1985	-0.008882	normal
+2-arachidonoylglycerophosphocholine*	0.1978	0.008853	tumour
+arabonate	0.1978	0.008852	tumour
+2'-deoxyguanosine	0.1966	0.008799	tumour
+leucylarginine	0.1946	0.00871	tumour
+agmatine	0.1943	0.008694	tumour
+galactose	0.191	0.008547	tumour
+C-glycosyltryptophan*	0.1877	-0.008401	normal
+N-acetylglycine	0.1858	0.008318	tumour
+methionylphenylalanine	0.1836	0.008218	tumour
+erythritol	0.1835	0.008213	tumour
+N-acetylvaline	0.1754	-0.007851	normal
+pelargonate (9:0)	0.1734	-0.007761	normal
+dimethylglycine	0.1617	0.007238	tumour
+argininosuccinate	0.1615	-0.007227	normal
+4-androsten-3beta,17beta-diol disulfate 1*	0.1613	-0.007218	normal
+valylisoleucine	0.1611	0.007213	tumour
+alanylalanine	0.1589	-0.007113	normal
+alpha-hydroxyisovalerate	0.1579	0.007065	tumour
+dihomo-linolenate (20:3n3 or n6)	0.1578	0.007065	tumour
+N-acetylglucosamine	0.1566	-0.007008	normal
+alanylglycine	0.1555	0.006958	tumour
+phosphoethanolamine	0.1533	-0.006861	normal
+16-hydroxypalmitate	0.1528	-0.006837	normal
+glycerate	0.1526	-0.00683	normal
+2-docosapentaenoylglycerophosphocholine*	0.1518	0.006796	tumour
+pyrophosphate (PPi)	0.1487	-0.006657	normal
+valylaspartate	0.138	0.006177	tumour
+4-guanidinobutanoate	0.1374	0.006149	tumour
+13-HODE + 9-HODE	0.1372	0.006141	tumour
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	0.132	0.005906	tumour
+glycyltryptophan	0.1281	0.005733	tumour
+docosapentaenoate (n3 DPA; 22:5n3)	0.1152	0.005156	tumour
+thymine	0.1148	-0.00514	normal
+prolylmethionine	0.1132	0.005065	tumour
+ascorbate (Vitamin C)	0.1128	-0.005046	normal
+nicotinamide riboside*	0.1091	0.004881	tumour
+valyllysine	0.1005	-0.004497	normal
+erythronate*	0.09607	-0.0043	normal
+gamma-glutamylvaline	0.09585	-0.00429	normal
+alpha-glutamylglutamate	0.09529	0.004265	tumour
+lysyllysine	0.09366	0.004192	tumour
+isoleucylphenylalanine	0.08929	0.003996	tumour
+cysteine	0.08812	0.003944	tumour
+serylisoleucine*	0.08718	-0.003902	normal
+2-palmitoylglycerol (2-monopalmitin)	0.08479	-0.003795	normal
+pipecolate	0.08447	0.003781	tumour
+testosterone	0.08429	0.003772	tumour
+xylonate	0.06899	0.003088	tumour
+2-hydroxybutyrate (AHB)	0.06767	0.003029	tumour
+isoleucylvaline	0.06654	-0.002978	normal
+isoleucylglutamate	0.06427	0.002876	tumour
+palmitoyl sphingomyelin	0.06102	-0.002731	normal
+uridine	0.0557	-0.002493	normal
+2-docosahexaenoylglycerophosphoethanolamine*	0.05516	0.002469	tumour
+glycerol	0.05327	-0.002384	normal
+phytosphingosine	0.05306	-0.002375	normal
+ornithine	0.05206	0.00233	tumour
+3-methyl-2-oxovalerate	0.04466	-0.001999	normal
+lidocaine	0.04442	0.001988	tumour
+3-dehydrocarnitine*	0.04343	-0.001944	normal
+adenine	0.04235	0.001896	tumour
+piperine	0.04125	0.001846	tumour
+triethyleneglycol	0.0405	-0.001813	normal
+2-eicosatrienoylglycerophosphocholine*	0.03337	0.001494	tumour
+gamma-glutamylleucine	0.03294	-0.001474	normal
+2-linoleoylglycerophosphocholine*	0.0301	0.001347	tumour
+N2-acetyllysine	0.02987	-0.001337	normal
+alanylvaline	0.02891	0.001294	tumour
+N-acetylornithine	0.02637	-0.00118	normal
+3-hydroxybutyrate (BHBA)	0.02563	-0.001147	normal
+glutarate (pentanedioate)	0.02394	-0.001072	normal
+1,5-anhydroglucitol (1,5-AG)	0.02342	0.001048	tumour
+4-methyl-2-oxopentanoate	0.02194	-0.0009818	normal
+1,2-propanediol	0.01983	-0.0008876	normal
+taurine	0.01611	0.000721	tumour
+myristate (14:0)	0.01457	-0.0006522	normal
+alanylisoleucine	0.009183	0.000411	tumour
+glycylleucine	0.00845	0.0003782	tumour
+quebrachitol	0.001956	-8.756e-05	normal
+ribose	0.001531	6.85e-05	tumour

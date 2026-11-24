@@ -1,0 +1,272 @@
+metabolite_main_cohort	pathway	log2fc_main	padj_main	metabolite_independent_cohort	log2fc_independent	padj_independent
+1-palmitoylglycerophosphoethanolamine	Lipid	-5.0236	0.0	1-palmitoyl-GPE (16:0)	-5.4007	0.0
+phenylacetylglutamine	Amino acid	-3.3758	0.0	phenylacetylglutamine	-3.193	0.0
+1-oleoylglycerophosphoethanolamine	Lipid	-4.1837	0.0	1-oleoyl-GPE (18:1)	-3.4027	0.0
+hippurate	Xenobiotics	-3.3583	0.0	hippurate	-3.1488	0.0
+glucose-6-phosphate (G6P)	Carbohydrate	3.1917	0.0	glucose 6-phosphate	3.5427	0.00203
+N-acetylaspartate (NAA)	Amino acid	-3.4476	0.0	N-acetylaspartate (NAA)	-1.4594	0.00557
+maltose	Carbohydrate	5.0565	0.0	maltose	5.4143	3e-05
+maltotriose	Carbohydrate	5.6848	0.0	maltotriose	4.4682	2e-05
+pantothenate	Cofactors and vitamins	-2.0982	0.0	pantothenate	-1.6256	1e-05
+1-palmitoylplasmenylethanolamine*	Lipid	-2.8977	0.0	1-(1-enyl-palmitoyl)-GPE (P-16:0)*	-3.2516	0.0
+pseudouridine	Nucleotide	-1.9135	0.0	pseudouridine	-1.0036	0.00056
+N2,N2-dimethylguanosine	Nucleotide	-2.8546	0.0	N2,N2-dimethylguanosine	-3.2626	0.0
+4-hydroxyhippurate	Xenobiotics	-3.6779	0.0	4-hydroxyhippurate	-4.9282	0.0
+eicosenoate (20:1n9 or 11)	Lipid	2.146	0.0	eicosenoate (20:1)	2.5238	1e-05
+ergothioneine	Xenobiotics	1.9763	0.0	ergothioneine	1.387	0.00428
+1-linoleoylglycerophosphoethanolamine*	Lipid	-2.7274	0.0	1-linoleoyl-GPE (18:2)*	-2.0604	0.00038
+1-palmitoylglycerophosphoinositol*	Lipid	-2.1632	0.0	1-palmitoyl-GPI (16:0)	-1.7738	0.00016
+arachidonate (20:4n6)	Lipid	-1.586	0.0	arachidonate (20:4n6)	-1.7892	0.00409
+kynurenine	Amino acid	2.8655	0.0	kynurenine	1.9355	0.00012
+N-acetyl-aspartyl-glutamate (NAAG)	Amino acid	-3.4237	0.0	N-acetyl-aspartyl-glutamate (NAAG)	-4.4459	0.0
+mannose-6-phosphate	Carbohydrate	3.1083	0.0	mannose-6-phosphate	3.0476	0.00036
+N6-acetyllysine	Amino acid	-1.9504	0.0	N6-acetyllysine	-2.3527	4e-05
+pyridoxate	Cofactors and vitamins	-2.4506	0.0	pyridoxate	-2.4332	0.0
+flavin adenine dinucleotide (FAD)	Cofactors and vitamins	-2.2542	0.0	flavin adenine dinucleotide (FAD)	-2.118	0.00025
+maltotetraose	Carbohydrate	4.151	0.0	maltotetraose	3.6562	4e-05
+alpha-tocopherol	Cofactors and vitamins	2.6076	0.0	alpha-tocopherol	0.50983	0.42626
+2-methylbutyrylcarnitine (C5)	Amino acid	-1.5994	0.0	2-methylbutyrylcarnitine (C5)	-1.607	3e-05
+1-stearoylglycerophosphoinositol	Lipid	-1.7611	0.0	1-stearoyl-GPI (18:0)	-1.3617	0.00047
+fumarate	Energy	-1.7416	0.0	fumarate	-1.2275	0.03544
+N2-methylguanosine	Nucleotide	-2.534	0.0	N2-methylguanosine	-2.2611	0.00012
+glucose	Carbohydrate	2.4159	0.0	glucose	0.84533	0.01618
+acetylcarnitine	Lipid	1.4908	0.0	acetylcarnitine (C2)	0.78186	0.04121
+dihomo-linoleate (20:2n6)	Lipid	1.2864	0.0	dihomo-linoleate (20:2n6)	1.7491	0.00023
+1-arachidonoylglycerophosphoethanolamine*	Lipid	-1.1638	0.0	1-arachidonoyl-GPE (20:4n6)*	0.15437	0.66571
+N6-carbamoylthreonyladenosine	Nucleotide	-1.8165	0.0	N6-carbamoylthreonyladenosine	-1.7622	0.00035
+serine	Amino acid	-1.4914	0.0	serine	-0.38006	0.06633
+tyrosine	Amino acid	-0.88745	0.0	tyrosine	-0.16607	0.44256
+N1-methyladenosine	Nucleotide	-2.1244	0.0	N1-methyladenosine	-1.8186	0.0
+dimethylarginine (SDMA + ADMA)	Amino acid	-1.7796	0.0	dimethylarginine (SDMA + ADMA)	-1.7917	4e-05
+methionine	Amino acid	-0.94632	0.0	methionine	-0.27612	0.17816
+docosadienoate (22:2n6)	Lipid	1.598	0.0	docosadienoate (22:2n6)	2.2824	1e-05
+pyridoxal	Cofactors and vitamins	-1.708	0.0	pyridoxal	-1.0031	0.01014
+docosahexaenoate (DHA; 22:6n3)	Lipid	-1.3072	0.0	docosahexaenoate (DHA; 22:6n3)	-1.8668	0.00762
+2-hydroxyglutarate	Lipid	1.9902	0.0	2-hydroxyglutarate	0.80106	0.07959
+3-hydroxyhippurate	Xenobiotics	-2.8542	0.0	3-hydroxyhippurate	-4.3427	0.0
+malonylcarnitine	Lipid	-1.7892	0.0	malonylcarnitine	-1.7049	0.0
+proline	Amino acid	-0.90649	0.0	proline	-0.18049	0.37471
+inositol 1-phosphate (I1P)	Lipid	-1.2855	0.0	inositol 1-phosphate (I1P)	-0.36447	0.33691
+10-nonadecenoate (19:1n9)	Lipid	1.0872	0.0	10-nonadecenoate (19:1n9)	1.4969	0.00072
+tryptophan	Amino acid	-2.1825	0.0	tryptophan	-0.30733	0.37501
+fructose	Carbohydrate	1.9607	0.0	fructose	1.1445	0.00111
+creatinine	Amino acid	-1.32	0.0	creatinine	-0.98004	0.0017
+glutamate	Amino acid	0.64177	0.0	glutamate	0.31837	0.33005
+docosatrienoate (22:3n3)	Lipid	1.2418	0.0	docosatrienoate (22:3n3)	2.4859	5e-05
+indoleacetate	Amino acid	-2.778	0.0	indoleacetate	-1.3032	0.00546
+tryptophan betaine	Amino acid	1.7844	0.0	tryptophan betaine	1.7846	1e-05
+threonine	Amino acid	-1.2882	0.0	threonine	-0.2097	0.34621
+arabitol	Carbohydrate	-1.5042	0.0	ribitol	-0.24874	0.63627
+gamma-aminobutyrate (GABA)	Amino acid	-1.8015	0.0	gamma-aminobutyrate (GABA)	-1.2623	0.02187
+1-oleoylglycerophosphoinositol*	Lipid	-1.527	0.0	1-oleoyl-GPI (18:1)	-1.3929	0.00161
+N-acetylglutamine	Amino acid	2.2012	0.0	N-acetylglutamine	2.5148	0.00036
+isovalerylcarnitine	Amino acid	-1.8789	0.0	isovalerylcarnitine (C5)	-1.1103	0.0824
+erucate (22:1n9)	Lipid	2.5419	0.0	erucate (22:1n9)	2.3849	1e-05
+N-acetylalanine	Amino acid	-1.1199	0.0	N-acetylalanine	-0.17147	0.64108
+leucine	Amino acid	-0.69106	0.0	leucine	-0.00274	0.99509
+hypoxanthine	Nucleotide	-0.69769	0.0	hypoxanthine	-0.99939	0.20519
+histidine	Amino acid	-0.90386	0.0	histidine	-0.02267	0.93152
+1-arachidonoylglycerophosphoinositol*	Lipid	-0.88341	0.0	1-arachidonoyl-GPI (20:4)*	0.35393	0.30816
+7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	Lipid	2.0508	0.0	7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	2.0741	3e-05
+guanosine	Nucleotide	0.89283	0.0	guanosine	-0.04774	0.88963
+phenylalanine	Amino acid	-0.69485	0.0	phenylalanine	-0.00158	0.99556
+valine	Amino acid	-0.74904	0.0	valine	-0.08255	0.72175
+N-acetylneuraminate	Carbohydrate	1.2106	0.0	N-acetylneuraminate	1.2853	0.06559
+2-stearoylglycerophosphoethanolamine*	Lipid	-3.4613	0.0	2-stearoyl-GPE (18:0)*	-4.0539	0.0
+beta-alanine	Amino acid	1.7404	0.0	beta-alanine	1.365	0.00661
+isoleucine	Amino acid	-0.75705	0.0	isoleucine	-0.12832	0.61073
+glucuronate	Carbohydrate	-2.1318	0.0	glucuronate	-2.2984	1e-05
+gamma-glutamylglutamate	Peptide	2.2537	0.0	gamma-glutamylglutamate	3.3357	0.00269
+1-oleoylglycerophosphoserine	Lipid	-1.1489	0.0	1-oleoyl-GPS (18:1)	-0.46224	0.302
+myo-inositol	Lipid	-1.9298	0.0	myo-inositol	-1.0395	0.00756
+N-acetylmethionine	Amino acid	1.4532	0.0	N-acetylmethionine	2.8201	0.00034
+xanthosine	Nucleotide	-1.2475	0.0	xanthosine	-1.0501	0.00102
+S-adenosylhomocysteine (SAH)	Amino acid	0.90327	0.0	S-adenosylhomocysteine (SAH)	0.5711	0.12539
+pyroglutamine*	Amino acid	1.273	0.0	pyroglutamine*	1.1822	4e-05
+aspartate	Amino acid	-1.1559	0.0	aspartate	-0.5853	0.01553
+asparagine	Amino acid	-1.3217	0.0	asparagine	-0.04942	0.84047
+riboflavin (Vitamin B2)	Cofactors and vitamins	-1.2243	0.0	riboflavin (Vitamin B2)	-1.2335	0.00058
+gluconate	Carbohydrate	-1.5895	0.0	gluconate	-1.3596	0.02813
+inosine	Nucleotide	0.42923	0.0	inosine	0.67182	0.0601
+malate	Energy	-1.2243	0.0	malate	-0.7836	0.11362
+citrate	Energy	2.8674	0.0	citrate	1.4303	0.02316
+laurylcarnitine	Lipid	2.1321	0.0	laurylcarnitine (C12)	3.7302	1e-05
+ethanolamine	Lipid	-1.3914	0.0	ethanolamine	-1.7656	0.00062
+glutamate, gamma-methyl ester	Amino acid	-1.2047	0.0	glutamate, gamma-methyl ester	-0.30319	0.1923
+trigonelline (N'-methylnicotinate)	Cofactors and vitamins	-1.258	0.0	trigonelline (N'-methylnicotinate)	-1.4391	2e-05
+10-heptadecenoate (17:1n7)	Lipid	0.71159	0.0	10-heptadecenoate (17:1n7)	1.0393	0.00996
+cytidine 5'-monophosphate (5'-CMP)	Nucleotide	0.97364	0.0	cytidine 5'-monophosphate (5'-CMP)	1.1294	0.00561
+phenylalanylglycine	Peptide	1.6016	0.0	phenylalanylglycine	1.2825	0.0371
+N-acetylglucosamine 6-phosphate	Carbohydrate	0.88513	0.0	N-acetylglucosamine 6-phosphate	0.82346	0.0607
+xanthine	Nucleotide	-0.53242	0.0	xanthine	-0.72035	0.11644
+6-phosphogluconate	Carbohydrate	1.4239	0.0	6-phosphogluconate	0.66767	0.17423
+valerylcarnitine	Lipid	-1.1218	0.0	valerylcarnitine (C5)	0.9472	0.0891
+glycerophosphoethanolamine	Lipid	-1.8705	0.0	glycerophosphoethanolamine	-0.73365	0.01287
+eicosapentaenoate (EPA; 20:5n3)	Lipid	-0.97279	0.0	eicosapentaenoate (EPA; 20:5n3)	-0.75757	0.09056
+adenosine 3'-monophosphate (3'-AMP)	Nucleotide	-0.96432	0.0	adenosine 3'-monophosphate (3'-AMP)	-1.4508	0.01405
+spermidine	Amino acid	0.80846	0.0	spermidine	0.71435	0.12103
+3-(4-hydroxyphenyl)lactate	Amino acid	1.3139	0.0	3-(4-hydroxyphenyl)lactate	2.8931	2e-05
+prolylglycine	Peptide	-1.3323	0.0	prolylglycine	-0.77982	0.14157
+3-methylhistidine	Amino acid	-0.94422	0.0	3-methylhistidine	-0.17206	0.57449
+2-aminoadipate	Amino acid	1.3991	0.0	2-aminoadipate	1.1624	0.01936
+adenosine 2'-monophosphate (2'-AMP)	Nucleotide	-0.8141	0.0	adenosine 2'-monophosphate (2'-AMP)	-0.07505	0.8909
+4-hydroxyglutamate	Amino acid	2.2235	0.0	4-hydroxyglutamate	-0.96304	0.22344
+2-palmitoleoylglycerophosphocholine*	Lipid	1.4517	0.0	2-palmitoleoyl-GPC (16:1)*	3.3893	4e-05
+5-aminovalerate	Amino acid	1.424	0.0	5-aminovalerate	-0.22504	0.67657
+lactate	Carbohydrate	0.53301	0.0	lactate	0.47224	0.04585
+3-aminoisobutyrate	Nucleotide	1.6161	0.0	3-aminoisobutyrate	0.98752	0.06024
+cortisone	Lipid	-1.4634	0.0	cortisone	-1.8892	4e-05
+urea	Amino acid	-0.76766	0.0	urea	-0.15549	0.62684
+creatine	Amino acid	0.76904	0.0	creatine	0.54484	0.0396
+1-methylimidazoleacetate	Amino acid	-1.1194	0.0	1-methyl-4-imidazoleacetate	-1.7622	0.00046
+N-methylglutamate	Amino acid	-2.1328	0.0	N-methylglutamate	-0.97154	0.06832
+N-acetylserine	Amino acid	-0.79516	0.0	N-acetylserine	-0.28924	0.30912
+nicotinamide adenine dinucleotide (NAD+)	Cofactors and vitamins	-2.0516	0.0	nicotinamide adenine dinucleotide (NAD+)	-1.8523	0.00537
+sorbitol	Carbohydrate	2.3847	0.0	mannitol/sorbitol	-1.0331	0.00545
+octanoylcarnitine	Lipid	1.4685	0.0	octanoylcarnitine (C8)	2.7594	6e-05
+phosphoenolpyruvate (PEP)	Carbohydrate	-1.6255	0.0	phosphoenolpyruvate (PEP)	-0.27903	0.40018
+homostachydrine*	Xenobiotics	0.9216	0.0	homostachydrine*	1.0187	0.03582
+docosapentaenoate (n6 DPA; 22:5n6)	Lipid	-0.97872	0.0	docosapentaenoate (n6 DPA; 22:5n6)	-0.00971	0.99465
+oleoylcarnitine	Lipid	2.0361	0.0	oleoylcarnitine (C18:1)	2.0961	0.0
+stearidonate (18:4n3)	Lipid	0.75834	0.0	stearidonate (18:4n3)	1.4517	0.00066
+2-hydroxypalmitate	Lipid	1.1933	0.0	2-hydroxypalmitate	0.95103	0.01437
+sphingosine	Lipid	1.5139	0.0	sphingosine	0.91085	0.01637
+isobutyrylcarnitine	Amino acid	-0.96436	0.0	isobutyrylcarnitine (C4)	-0.97937	0.0023
+lysine	Amino acid	-0.54349	0.0	lysine	-0.07097	0.7584
+arachidate (20:0)	Lipid	1.1946	0.0	arachidate (20:0)	1.7001	0.0
+1-palmitoylglycerophosphocholine	Lipid	-1.4242	0.0	1-palmitoyl-GPC (16:0)	-1.9466	0.00034
+15-methylpalmitate (isobar with 2-methylpalmitate)	Lipid	0.49271	0.0	(14 or 15)-methylpalmitate (a17:0 or i17:0)	1.5012	0.00158
+cytidine-3'-monophosphate (3'-CMP)	Nucleotide	-1.1363	0.0	cytidine 3'-monophosphate (3'-CMP)	-1.5456	0.00052
+linolenate [alpha or gamma; (18:3n3 or 6)]	Lipid	0.63924	0.0	linolenate [alpha or gamma; (18:3n3 or 6)]	1.0935	0.02299
+guanidinoacetate	Amino acid	-1.5643	0.0	guanidinoacetate	-2.486	4e-05
+uracil	Nucleotide	-0.68534	0.0	uracil	-0.44001	0.12205
+guanosine 5'- monophosphate (5'-GMP)	Nucleotide	1.5488	0.0	guanosine 5'- monophosphate (5'-GMP)	-1.6581	0.0026
+choline	Lipid	-0.52932	0.0	choline	-0.09782	0.68438
+phenol sulfate	Amino acid	-0.78326	0.0	phenol sulfate	-0.08062	0.8215
+glutamine	Amino acid	0.5465	0.0	glutamine	0.90919	0.00227
+palmitoleate (16:1n7)	Lipid	0.51703	0.0	palmitoleate (16:1n7)	1.0281	0.03343
+N-acetylarginine	Amino acid	1.3408	0.0	N-acetylarginine	0.30084	0.65567
+quinate	Xenobiotics	-0.93816	0.0	quinate	-0.8807	0.10503
+gamma-glutamylisoleucine*	Peptide	-1.1033	0.0	gamma-glutamylisoleucine*	-0.80407	0.00179
+androsterone sulfate	Lipid	-0.9451	0.0	androsterone sulfate	0.11475	0.80966
+glycerophosphorylcholine (GPC)	Lipid	0.62306	0.0	glycerophosphorylcholine (GPC)	0.82605	0.00284
+linoleate (18:2n6)	Lipid	0.42633	0.0	linoleate (18:2n6)	0.03179	0.96541
+hexanoylcarnitine	Lipid	0.79046	0.0	hexanoylcarnitine (C6)	1.5583	0.01287
+tyrosylglycine	Peptide	0.65095	0.0	tyrosylglycine	2.5002	1e-05
+catechol sulfate	Xenobiotics	-0.80213	0.0	catechol sulfate	-0.49736	0.33005
+gamma-glutamylglutamine	Peptide	1.5054	0.0	gamma-glutamylglutamine	3.383	0.00132
+cytidine	Nucleotide	-1.1143	0.0	cytidine	-0.2966	0.39702
+methylphosphate	Nucleotide	-0.61584	0.0	methylphosphate	-0.07624	0.81961
+alanine	Amino acid	-0.47679	0.0	alanine	-0.05404	0.8326
+phosphate	Energy	-0.33648	0.0	phosphate	-0.19942	0.42428
+stearate (18:0)	Lipid	0.43029	0.0	stearate (18:0)	1.1519	0.00022
+succinate	Energy	0.79282	0.0	succinate	2.8462	0.0
+sphinganine	Lipid	1.2913	0.0	sphinganine	0.88884	0.00333
+mannose	Carbohydrate	0.81274	0.0	mannose	0.09195	0.75166
+palmitoylcarnitine	Lipid	1.328	0.0	palmitoylcarnitine (C16)	1.6052	0.00018
+myristoylcarnitine	Lipid	1.1986	0.0	myristoylcarnitine (C14)	1.928	0.00018
+stachydrine	Xenobiotics	0.52428	0.0	stachydrine	0.92857	0.00238
+arginine	Amino acid	-0.40873	0.0	arginine	0.35798	0.13158
+N-6-trimethyllysine	Amino acid	-0.51592	0.0	N6,N6,N6-trimethyllysine	-1.1398	0.00132
+p-cresol sulfate	Amino acid	-0.65687	0.0	p-cresol sulfate	-0.20477	0.58091
+citrulline	Amino acid	0.62759	0.0	citrulline	0.40898	0.12157
+adenosine	Nucleotide	-0.63348	0.0	adenosine	-1.3339	0.00047
+butyrylcarnitine	Lipid	0.63821	0.0	butyrylcarnitine (C4)	1.0357	0.10056
+histamine	Amino acid	1.6202	0.0	histamine	2.618	0.01267
+N1-Methyl-2-pyridone-5-carboxamide	Cofactors and vitamins	-0.63362	0.0	N1-Methyl-2-pyridone-5-carboxamide	-0.10858	0.71419
+myristoleate (14:1n5)	Lipid	-0.39496	0.0	myristoleate (14:1n5)	0.47984	0.18018
+N-acetylleucine	Amino acid	0.95574	0.0	N-acetylleucine	1.9876	0.00877
+1-palmitoleoylglycerophosphocholine*	Lipid	-0.9953	0.0	1-palmitoleoyl-GPC (16:1)*	-2.3813	0.00011
+2-aminobutyrate	Amino acid	0.38999	0.0	2-aminobutyrate	0.63657	0.01581
+choline phosphate	Lipid	0.38573	0.0	choline phosphate	-0.27564	0.62197
+sedoheptulose-7-phosphate	Carbohydrate	0.71563	0.0	sedoheptulose-7-phosphate	1.807	0.00062
+nicotinamide ribonucleotide (NMN)	Cofactors and vitamins	-1.2851	0.0	nicotinamide ribonucleotide (NMN)	-1.534	0.07809
+deoxycarnitine	Lipid	0.40033	0.0	deoxycarnitine	0.52315	0.10176
+carnitine	Lipid	0.33982	0.0	carnitine	0.6862	0.00109
+1-stearoylglycerophosphocholine	Lipid	-1.1137	0.0	1-stearoyl-GPC (18:0)	-0.99227	0.03079
+3-indoxyl sulfate	Amino acid	-0.7806	0.0	3-indoxyl sulfate	-0.44276	0.39626
+trans-4-hydroxyproline	Amino acid	-0.97474	1e-05	trans-4-hydroxyproline	0.86985	0.03086
+1-oleoylglycerol (1-monoolein)	Lipid	0.5594	1e-05	1-oleoylglycerol (18:1)	-1.4106	0.00181
+pentadecanoate (15:0)	Lipid	0.39494	1e-05	pentadecanoate (15:0)	0.65186	0.01566
+N-acetylasparagine	Amino acid	0.76621	2e-05	N-acetylasparagine	1.0215	0.05202
+heme	Cofactors and vitamins	1.8665	3e-05	heme	1.2156	0.11813
+propionylcarnitine	Lipid	-0.37332	5e-05	propionylcarnitine (C3)	-0.94197	0.02142
+N-acetylthreonine	Amino acid	0.52389	7e-05	N-acetylthreonine	-0.42687	0.09821
+urate	Nucleotide	-0.37411	0.00011	urate	0.09258	0.8141
+3-phosphoglycerate	Carbohydrate	-0.59162	0.00014	3-phosphoglycerate	-0.57241	0.31389
+imidazole propionate	Amino acid	-0.48884	0.00017	imidazole propionate	-0.85176	0.02171
+5-oxoproline	Amino acid	-0.36411	0.00025	5-oxoproline	0.55681	0.07485
+margarate (17:0)	Lipid	0.25498	0.00027	margarate (17:0)	1.2066	0.0002
+azelate (nonanedioate)	Lipid	0.28135	0.0005	azelate (C9-DC)	-0.17695	0.61986
+S-methylcysteine	Amino acid	-0.27559	0.00054	S-methylcysteine	0.34801	0.17673
+palmitate (16:0)	Lipid	0.23664	0.00077	palmitate (16:0)	1.2434	0.00367
+5-methylthioadenosine (MTA)	Amino acid	0.45486	0.00078	5-methylthioadenosine (MTA)	-0.81132	0.16381
+glycine	Amino acid	-0.29245	0.00082	glycine	-0.0803	0.78925
+1-palmitoylglycerol (1-monopalmitin)	Lipid	-0.33539	0.00096	1-palmitoylglycerol (16:0)	-0.89761	0.08739
+cholesterol	Lipid	0.26651	0.00139	cholesterol	0.41437	0.2232
+betaine	Amino acid	-0.56139	0.00149	betaine	-0.08402	0.77052
+cystine	Amino acid	1.0467	0.00155	cystine	0.71165	0.04456
+adrenate (22:4n6)	Lipid	0.21588	0.00188	adrenate (22:4n6)	0.838	0.23112
+3-hydroxyoctanoate	Lipid	-0.40361	0.00211	3-hydroxyoctanoate	-0.11705	0.82427
+laurate (12:0)	Lipid	-0.30668	0.00243	laurate (12:0)	0.68947	0.01629
+glycerol 3-phosphate (G3P)	Lipid	-0.31868	0.00331	glycerol 3-phosphate	-1.0217	0.0792
+nicotinamide	Cofactors and vitamins	-0.19485	0.00449	nicotinamide	-0.21765	0.40933
+guanine	Nucleotide	0.77843	0.00546	guanine	2.0574	0.00665
+succinylcarnitine	Energy	-0.45166	0.00657	succinylcarnitine (C4-DC)	-1.2735	0.05902
+1-linoleoylglycerol (1-monolinolein)	Lipid	0.45884	0.00698	1-linoleoylglycerol (18:2)	-0.14326	0.76169
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	Lipid	0.31162	0.00705	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	0.83083	0.05635
+threonate	Cofactors and vitamins	0.45372	0.00873	threonate	-0.20376	0.59397
+2'-deoxyinosine	Nucleotide	0.37709	0.01035	2'-deoxyinosine	0.51831	0.25759
+1-linoleoylglycerophosphocholine	Lipid	-0.42111	0.01241	1-linoleoyl-GPC (18:2)	-0.33768	0.42094
+hypotaurine	Amino acid	0.32525	0.0132	hypotaurine	0.78135	0.06373
+stearoylcarnitine	Lipid	0.6117	0.01508	stearoylcarnitine (C18)	0.94234	0.00791
+alpha-hydroxyisovalerate	Amino acid	0.22178	0.01586	alpha-hydroxyisovalerate	1.0839	0.00014
+caprate (10:0)	Lipid	-0.19447	0.02141	caprate (10:0)	0.41975	0.17673
+benzoate	Xenobiotics	-0.27507	0.03019	benzoate	0.05324	0.92222
+C-glycosyltryptophan*	Amino acid	-0.14636	0.03548	C-glycosyltryptophan	-0.44733	0.17091
+3-hydroxydecanoate	Lipid	-0.33661	0.05025	3-hydroxydecanoate	0.04762	0.88778
+glycerate	Carbohydrate	-0.17327	0.05031	glycerate	-0.52486	0.08161
+3-ureidopropionate	Amino acid	0.43221	0.05031	3-ureidopropionate	-1.0123	0.11644
+theobromine	Xenobiotics	-0.28361	0.05818	theobromine	0.49496	0.28715
+erythritol	Xenobiotics	0.20236	0.05994	erythritol	-0.32524	0.34783
+N-acetylglycine	Amino acid	0.14698	0.09206	N-acetylglycine	0.78456	0.03412
+1-arachidonoylglycerophosphocholine*	Lipid	-0.29639	0.10149	1-arachidonoyl-GPC (20:4n6)*	0.95757	0.02892
+2-palmitoylglycerophosphocholine*	Lipid	-0.28149	0.14235	2-palmitoyl-GPC (16:0)*	-0.89599	0.0601
+phosphoethanolamine	Lipid	-0.09566	0.15737	phosphoethanolamine	-0.90259	0.12103
+pipecolate	Amino acid	0.1951	0.17345	pipecolate	1.0222	0.00056
+dimethylglycine	Amino acid	0.13543	0.18068	dimethylglycine	0.68278	0.01601
+dihomo-linolenate (20:3n3 or n6)	Lipid	0.10126	0.19804	dihomo-linolenate (20:3n3 or n6)	0.83475	0.14312
+N-acetylvaline	Amino acid	-0.2193	0.20961	N-acetylvaline	1.3471	0.00049
+lidocaine	Xenobiotics	0.13549	0.22591	lidocaine	-0.49786	0.21979
+2'-deoxyguanosine	Nucleotide	0.20467	0.23939	2'-deoxyguanosine	1.1584	0.01618
+thymine	Nucleotide	-0.18832	0.2467	thymine	0.04209	0.95131
+glycerol	Lipid	-0.08786	0.2467	glycerol	-0.02332	0.95141
+indolelactate	Amino acid	-0.24723	0.29806	indolelactate	1.9675	0.00013
+4-guanidinobutanoate	Amino acid	0.11348	0.33872	4-guanidinobutanoate	-0.16956	0.57449
+gamma-glutamylvaline	Peptide	-0.15948	0.34215	gamma-glutamylvaline	-0.23127	0.46932
+docosapentaenoate (n3 DPA; 22:5n3)	Lipid	0.0801	0.34215	docosapentaenoate (n3 DPA; 22:5n3)	0.41433	0.37544
+argininosuccinate	Amino acid	-0.32997	0.36337	argininosuccinate	-0.83682	0.03358
+uridine	Nucleotide	-0.05263	0.3765	uridine	-0.56761	0.29179
+N2-acetyllysine	Amino acid	-0.17433	0.39305	N2-acetyllysine	-0.17983	0.80463
+erythronate*	Carbohydrate	-0.0652	0.39633	erythronate*	-0.18321	0.49121
+4-androsten-3beta,17beta-diol disulfate 1*	Lipid	-0.10658	0.46635	androstenediol (3beta,17beta) disulfate (1)	0.59229	0.16871
+2-palmitoylglycerol (2-monopalmitin)	Lipid	-0.11612	0.47364	2-palmitoylglycerol (16:0)	0.00527	0.99509
+ascorbate (Vitamin C)	Cofactors and vitamins	-0.14624	0.47408	ascorbate (Vitamin C)	-0.46992	0.75166
+13-HODE + 9-HODE	Lipid	0.08165	0.49539	13-HODE + 9-HODE	0.50291	0.30915
+piperine	Xenobiotics	0.06742	0.55453	piperine	0.92462	0.08036
+ribose	Carbohydrate	-0.07522	0.66076	ribose	-0.21677	0.45654
+palmitoyl sphingomyelin	Lipid	-0.04703	0.6731	palmitoyl sphingomyelin (d18:1/16:0)	0.14844	0.68275
+phytosphingosine	Lipid	-0.07917	0.68662	phytosphingosine	-0.85385	0.01292
+gamma-glutamylleucine	Peptide	-0.03877	0.68799	gamma-glutamylleucine	0.8241	0.04238
+nicotinamide riboside*	Cofactors and vitamins	0.05508	0.76948	nicotinamide riboside	-2.1832	0.00117
+3-hydroxybutyrate (BHBA)	Lipid	-0.02053	0.7933	3-hydroxybutyrate (BHBA)	0.13673	0.62728
+ornithine	Amino acid	0.03247	0.80517	ornithine	-0.49905	0.09929
+cysteine	Amino acid	0.04518	0.81481	cysteine	-0.59693	0.33093
+4-methyl-2-oxopentanoate	Amino acid	-0.04383	0.84271	4-methyl-2-oxopentanoate	1.1354	0.03412
+1,5-anhydroglucitol (1,5-AG)	Carbohydrate	0.01008	0.89795	1,5-anhydroglucitol (1,5-AG)	0.45559	0.13206
+taurine	Amino acid	-0.01252	0.9059	taurine	-0.50777	0.34827
+myristate (14:0)	Lipid	-0.0092	0.91032	myristate (14:0)	1.2271	0.00097
+3-methyl-2-oxovalerate	Amino acid	-0.01948	0.9301	3-methyl-2-oxovalerate	0.44148	0.3662
+adenine	Nucleotide	-0.00414	0.98458	adenine	-0.4111	0.31398
+N-acetylornithine	Amino acid	-0.00307	0.98615	N-alpha-acetylornithine	0.5605	0.35434
+glutarate (pentanedioate)	Amino acid	0.0004	0.9976	glutarate (C5-DC)	0.28343	0.43577

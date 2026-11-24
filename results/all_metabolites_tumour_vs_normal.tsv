@@ -1,0 +1,501 @@
+metabolite	mean_log2_intensity	log2_fold_change	fold_change	statistic	p_value	padj	direction	filled_in_test	filled_in_reference	measured_in_one_group_only	super_pathway	sub_pathway	kegg	hmdb
+1-palmitoylglycerophosphoethanolamine	18.154	-5.0236	0.030742	-31.41	6.2332e-66	3.1166000000000003e-63	down	0	0	False	Lipid	Lysolipid		HMDB11503
+phenylacetylglutamine	17.75	-3.3758	0.096335	-30.661	1.2488e-64	3.122e-62	down	4	0	False	Amino acid	Phenylalanine & tyrosine metabolism	C04148	HMDB06344
+1-oleoylglycerophosphoethanolamine	18.406	-4.1837	0.055026	-29.528	1.2947e-62	2.1579e-60	down	0	0	False	Lipid	Lysolipid		HMDB11506
+hippurate	15.675	-3.3583	0.097512	-27.971	9.4666e-60	1.1833e-57	down	2	0	False	Xenobiotics	Benzoate metabolism	C01586	HMDB00714
+glucose-6-phosphate (G6P)	20.376	3.1917	9.1372	26.949	8.2498e-58	8.249800000000001e-56	up	1	1	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00668	HMDB01401
+N-acetylaspartate (NAA)	16.844	-3.4476	0.091657	-26.525	5.4515e-57	4.5429000000000004e-55	down	3	0	False	Amino acid	Alanine and aspartate metabolism	C01042	HMDB00812
+maltose	19.446	5.0565	33.278	26.405	9.3187e-57	6.6562e-55	up	1	38	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C00208	HMDB00163
+maltotriose	18.555	5.6848	51.441	26.265	1.746e-56	1.0913000000000001e-54	up	1	75	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C01835	HMDB01262
+vanillylmandelate (VMA)	13.464	-3.8097	0.071312	-25.7	2.2718e-55	1.2620999999999999e-53	down	117	11	False	Amino acid	Phenylalanine & tyrosine metabolism	C05584	HMDB00291
+pantothenate	18.438	-2.0982	0.23355	-25.449	7.178300000000001e-55	3.5891e-53	down	0	0	False	Cofactors and vitamins	Pantothenate and CoA metabolism	C00864	HMDB00210
+2-oleoylglycerophosphoethanolamine*	15.643	-3.2411	0.10576	-25.409	8.6103e-55	3.9138e-53	down	3	0	False	Lipid	Lysolipid		
+1-heptadecanoylglycerophosphoethanolamine*	13.48	-5.537	0.021538	-24.733	1.9843e-53	8.268e-52	down	85	3	False	Lipid	Lysolipid		
+2-palmitoylglycerophosphoethanolamine*	15.131	-5.5565	0.021248	-24.687	2.4635e-53	9.474899999999999e-52	down	44	1	False	Lipid	Lysolipid		
+1-palmitoylplasmenylethanolamine*	18.935	-2.8977	0.13419	-24.463	7.05e-53	2.5179e-51	down	0	0	False	Lipid	Lysolipid		
+pseudouridine	12.977	-1.9135	0.26544	-24.217	2.2617e-52	7.539e-51	down	28	2	False	Nucleotide	Pyrimidine metabolism, uracil containing	C02067	HMDB00767
+N2,N2-dimethylguanosine	13.922	-2.8546	0.13826	-23.776	1.8548e-51	5.796199999999999e-50	down	99	4	False	Nucleotide	Purine metabolism, guanine containing		HMDB04824
+glucose 1-phosphate	16.665	3.7708	13.65	23.604	4.2341e-51	1.2453e-49	up	15	126	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00103	HMDB01586
+4-hydroxyhippurate	11.28	-3.6779	0.078135	-22.919	1.1808e-49	3.2799999999999995e-48	down	117	11	False	Xenobiotics	Benzoate metabolism		
+fructose-6-phosphate	19.285	2.7462	6.7095	22.873	1.4773e-49	3.8877e-48	up	1	0	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C05345	HMDB00124
+eicosenoate (20:1n9 or 11)	20.454	2.146	4.4261	22.784	2.2884e-49	5.721e-48	up	0	0	False	Lipid	Long chain fatty acid		HMDB02231
+ergothioneine	17.853	1.9763	3.9349	22.43	1.3159e-48	3.1331e-47	up	0	1	False	Xenobiotics	Food component/Plant	C05570	HMDB03045
+1-linoleoylglycerophosphoethanolamine*	17.129	-2.7274	0.151	-22.329	2.1762e-48	4.946e-47	down	0	0	False	Lipid	Lysolipid		HMDB11507
+1-palmitoylglycerophosphoinositol*	15.058	-2.1632	0.22326	-22.074	7.7495e-48	1.6846999999999998e-46	down	5	0	False	Lipid	Lysolipid		
+arachidonate (20:4n6)	23.641	-1.586	0.3331	-21.159	7.9971e-46	1.6661e-44	down	0	0	False	Lipid	Long chain fatty acid	C00219	HMDB01043
+kynurenine	18.81	2.8655	7.2876	20.844	4.0284000000000004e-45	8.056799999999999e-44	up	0	0	False	Amino acid	Tryptophan metabolism	C00328	HMDB00684
+N-acetyl-aspartyl-glutamate (NAAG)	15.078	-3.4237	0.093191	-20.639	1.1634e-44	2.2373e-43	down	81	2	False	Amino acid	Glutamate metabolism	C12270	HMDB01067
+mannose-6-phosphate	16.961	3.1083	8.6234	20.607	1.3729e-44	2.4648999999999997e-43	up	4	21	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C00275	HMDB01078
+5-methyltetrahydrofolate (5MeTHF)	11.024	-2.3996	0.18951	-20.606	1.3804e-44	2.4648999999999997e-43	down	118	26	False	Cofactors and vitamins	Folate metabolism	C00440	HMDB01396
+N1-methylguanosine	14.531	-2.8072	0.14288	-20.235	9.5531e-44	1.6471e-42	down	58	4	False	Nucleotide	Purine metabolism, guanine containing		HMDB01563
+N6-acetyllysine	16.129	-1.9504	0.25874	-20.027	2.8453999999999998e-43	4.7423e-42	down	2	0	False	Amino acid	Lysine metabolism	C02727	HMDB00206
+pyridoxate	11.578	-2.4506	0.18294	-19.698	1.6263e-42	2.6231e-41	down	104	8	False	Cofactors and vitamins	Vitamin B6 metabolism	C00847	HMDB00017
+methyl-alpha-glucopyranoside	17.352	2.1273	4.3689	19.619	2.4681e-42	3.8565000000000003e-41	up	0	1	False	Xenobiotics	Chemical	C02603	
+flavin adenine dinucleotide (FAD)	12.742	-2.2542	0.20961	-19.378	8.9429e-42	1.355e-40	down	40	3	False	Cofactors and vitamins	Riboflavin metabolism	C00016	HMDB01248
+maltotetraose	13.478	4.151	17.765	18.328	2.62e-39	3.853e-38	up	2	52	False	Carbohydrate	Oligosaccharide	C02052	HMDB01296
+alpha-tocopherol	17.891	2.6076	6.095	18.088	9.7648e-39	1.395e-37	up	1	1	False	Cofactors and vitamins	Tocopherol metabolism	C02477	HMDB01893
+2-methylbutyrylcarnitine (C5)	17.211	-1.5994	0.33002	-17.813	4.4723999999999997e-38	6.2116e-37	down	1	0	False	Amino acid	Valine, leucine and isoleucine metabolism		HMDB00378
+1-stearoylglycerophosphoinositol	16.642	-1.7611	0.29502	-17.701	8.2972e-38	1.1211999999999999e-36	down	1	0	False	Lipid	Lysolipid		
+phenylalanylalanine	16.08	2.9791	7.8849	17.672	9.749199999999999e-38	1.2828e-36	up	1	13	False	Peptide	Dipeptide		
+scyllo-inositol	23.233	-2.2693	0.20743	-17.546	1.9654e-37	2.5198e-36	down	1	0	False	Lipid	Inositol metabolism	C06153	HMDB06088
+fumarate	20.59	-1.7416	0.29904	-17.539	2.0437e-37	2.5546e-36	down	1	0	False	Energy	Krebs cycle	C00122	HMDB00134
+N2-methylguanosine	14.146	-2.534	0.17265	-17.303	7.6535e-37	9.3336e-36	down	67	3	False	Nucleotide	Purine metabolism, guanine containing		HMDB05862
+1-palmitoleoylglycerophosphoethanolamine*	14.068	-3.2199	0.10733	-17.096	2.4429e-36	2.9082e-35	down	134	29	False	Lipid	Lysolipid		
+glucose	25.094	2.4159	5.3364	17.075	2.7554e-36	3.204e-35	up	1	0	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00031	HMDB00122
+acetylcarnitine	22.678	1.4908	2.8104	17.027	3.6064e-36	4.0982000000000005e-35	up	0	0	False	Lipid	Carnitine metabolism	C02571	HMDB00201
+dihomo-linoleate (20:2n6)	20.465	1.2864	2.4391	17.019	3.7754e-36	4.1949e-35	up	0	0	False	Lipid	Long chain fatty acid	C16525	
+1-arachidonoylglycerophosphoethanolamine*	17.929	-1.1638	0.44634	-16.841	1.0301000000000001e-35	1.1197000000000001e-34	down	0	0	False	Lipid	Lysolipid		HMDB11517
+N6-carbamoylthreonyladenosine	13.919	-1.8165	0.28391	-16.698	2.3082e-35	2.4556e-34	down	97	8	False	Nucleotide	Purine metabolism, guanine containing		
+serine	26.093	-1.4914	0.35566	-16.539	5.691200000000001e-35	5.8525000000000005e-34	down	1	0	False	Amino acid	Glycine, serine and threonine metabolism	C00065	HMDB03406
+1-stearoylglycerophosphoethanolamine	17.76	-3.3926	0.095218	-16.538	5.7355e-35	5.8525000000000005e-34	down	19	0	False	Lipid	Lysolipid		HMDB11130
+tyrosine	22.746	-0.88745	0.54057	-16.464	8.74e-35	8.739999999999999e-34	down	0	0	False	Amino acid	Phenylalanine & tyrosine metabolism	C00082	HMDB00158
+N1-methyladenosine	14.305	-2.1244	0.22934	-16.166	4.7975000000000005e-34	4.7034e-33	down	62	4	False	Nucleotide	Purine metabolism, adenine containing	C02494	HMDB03331
+dimethylarginine (SDMA + ADMA)	15.586	-1.7796	0.29126	-16.106	6.7717e-34	6.5112e-33	down	15	2	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C03626	HMDB01539,HMDB03334
+citramalate	14.237	-3.0666	0.11936	-16.091	7.3779e-34	6.9603e-33	down	74	7	False	Amino acid	Valine, leucine and isoleucine metabolism	C00815	HMDB00426
+methionine	22.018	-0.94632	0.51896	-15.956	1.6017000000000002e-33	1.4831e-32	down	0	0	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00073	HMDB00696
+fructose 1-phosphate	15.701	3.6609	12.648	15.861	2.766e-33	2.5145999999999997e-32	up	6	54	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C01094	HMDB01076
+3-methylglutarylcarnitine (C6)	14.718	-2.1697	0.22225	-15.796	4.0126e-33	3.5827e-32	down	72	5	False	Amino acid	Valine, leucine and isoleucine metabolism		HMDB00552
+glycylthreonine	18.706	-1.7816	0.29087	-15.774	4.5522000000000005e-33	3.9932e-32	down	4	0	False	Peptide	Dipeptide		
+docosadienoate (22:2n6)	15.919	1.598	3.0273	15.672	8.2025e-33	7.0712e-32	up	15	16	False	Lipid	Long chain fatty acid	C16533	
+glycylvaline	16.211	-1.2891	0.40919	-15.531	1.8537e-32	1.5709e-31	down	1	1	False	Peptide	Dipeptide		
+pyridoxal	15.619	-1.708	0.30609	-15.496	2.2733e-32	1.8944000000000002e-31	down	45	6	False	Cofactors and vitamins	Pyridoxal metabolism	C00250	HMDB01545
+docosahexaenoate (DHA; 22:6n3)	20.338	-1.3072	0.4041	-15.448	3.0100999999999997e-32	2.4673e-31	down	0	0	False	Lipid	Essential fatty acid	C06429	HMDB02183
+2-hydroxyglutarate	17.992	1.9902	3.973	15.434	3.2648e-32	2.6329e-31	up	1	0	False	Lipid	Fatty acid, dicarboxylate	C02630	HMDB00606
+3-hydroxyhippurate	11.209	-2.8542	0.1383	-15.303	6.9896e-32	5.5473e-31	down	118	35	False	Xenobiotics	Benzoate metabolism		HMDB06116
+malonylcarnitine	15.293	-1.7892	0.28933	-15.241	9.9823e-32	7.7987000000000005e-31	down	21	1	False	Lipid	Fatty acid synthesis		HMDB02095
+4-hydroxyphenylacetate	14.356	-1.9797	0.25354	-15.238	1.0195e-31	7.8426e-31	down	110	24	False	Amino acid	Phenylalanine & tyrosine metabolism	C00642	HMDB00020
+phenylalanylserine	15.352	2.9847	7.9154	15.152	1.6815e-31	1.2738e-30	up	3	42	False	Peptide	Dipeptide		
+proline	21.514	-0.90649	0.53348	-15.12	2.0182e-31	1.5061e-30	down	0	0	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C00148	HMDB00162
+inositol 1-phosphate (I1P)	19.997	-1.2855	0.41022	-15.028	3.4518e-31	2.5381e-30	down	1	0	False	Lipid	Inositol metabolism	C04006	HMDB00213
+10-nonadecenoate (19:1n9)	17.318	1.0872	2.1246	14.979	4.6131e-31	3.3428e-30	up	0	0	False	Lipid	Long chain fatty acid		
+tryptophan	21.38	-2.1825	0.2203	-14.967	4.9354e-31	3.5253000000000004e-30	down	0	0	False	Amino acid	Tryptophan metabolism	C00078	HMDB00929
+fructose	21.267	1.9607	3.8924	14.845	1.0114000000000001e-30	7.1226e-30	up	1	0	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C00095	HMDB00660
+creatinine	19.011	-1.32	0.40053	-14.747	1.7916000000000002e-30	1.2372e-29	down	0	0	False	Amino acid	Creatine metabolism	C00791	HMDB00562
+glutamate	22.715	0.64177	1.5602	14.746	1.8063e-30	1.2372e-29	up	0	0	False	Amino acid	Glutamate metabolism	C00025	HMDB03339
+docosatrienoate (22:3n3)	15.837	1.2418	2.3649	14.733	1.9461e-30	1.3149e-29	up	0	0	False	Lipid	Long chain fatty acid	C16534	HMDB02823
+indoleacetate	16.121	-2.778	0.14579	-14.675	2.7393e-30	1.8262e-29	down	49	5	False	Amino acid	Tryptophan metabolism	C00954	HMDB00197
+tryptophan betaine	16.223	1.7844	3.4448	14.558	5.4452e-30	3.5824000000000004e-29	up	8	43	False	Amino acid	Tryptophan metabolism	C09213	
+threonine	24.425	-1.2882	0.40947	-14.55	5.7001e-30	3.7014e-29	down	1	0	False	Amino acid	Glycine, serine and threonine metabolism	C00188	HMDB00167
+arabitol	17.091	-1.5042	0.35252	-14.446	1.0502000000000001e-29	6.7318e-29	down	2	0	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00474	HMDB01851
+gamma-aminobutyrate (GABA)	19.607	-1.8015	0.28688	-14.388	1.4794e-29	9.363200000000001e-29	down	1	0	False	Amino acid	Glutamate metabolism	C00334	HMDB00112
+1-oleoylglycerophosphoinositol*	15.302	-1.527	0.347	-14.361	1.7379000000000002e-29	1.0861999999999999e-28	down	7	1	False	Lipid	Lysolipid		
+N-acetylglutamine	14.723	2.2012	4.5985	14.323	2.1752e-29	1.3426999999999999e-28	up	3	19	False	Amino acid	Glutamate metabolism	C02716	HMDB06029
+isovalerylcarnitine	15.821	-1.8789	0.27189	-14.17	5.367100000000001e-29	3.2725999999999997e-28	down	16	0	False	Amino acid	Valine, leucine and isoleucine metabolism		HMDB00688
+erucate (22:1n9)	13.19	2.5419	5.8234	14.16	5.6821e-29	3.4229e-28	up	23	82	False	Lipid	Long chain fatty acid	C08316	HMDB02068
+N-acetylalanine	13.291	-1.1199	0.46012	-14.151	5.981800000000001e-29	3.5605999999999997e-28	down	5	0	False	Amino acid	Alanine and aspartate metabolism	C02847	HMDB00766
+leucine	24.748	-0.69106	0.6194	-14.124	7.0402e-29	4.1413e-28	down	0	0	False	Amino acid	Valine, leucine and isoleucine metabolism	C00123	HMDB00687
+hypoxanthine	17.892	-0.69769	0.61656	-13.92	2.3593e-28	1.3717e-27	down	0	0	False	Nucleotide	Purine metabolism, (hypo)xanthine/inosine containing	C00262	HMDB00157
+histidine	16.372	-0.90386	0.53445	-13.772	5.6646e-28	3.2555e-27	down	0	0	False	Amino acid	Histidine metabolism	C00135	HMDB00177
+1-arachidonoylglycerophosphoinositol*	17.129	-0.88341	0.54208	-13.731	7.237899999999999e-28	4.1124000000000004e-27	down	0	0	False	Lipid	Lysolipid		
+7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	12.42	2.0508	4.1432	13.718	7.808099999999999e-28	4.3866e-27	up	3	42	False	Lipid	Sterol/Steroid	C17337	HMDB12458
+guanosine	15.668	0.89283	1.8568	13.681	9.7211e-28	5.4006e-27	up	0	0	False	Nucleotide	Purine metabolism, guanine containing	C00387	HMDB00133
+phenylalanine	24.103	-0.69485	0.61778	-13.666	1.062e-27	5.8349999999999996e-27	down	0	0	False	Amino acid	Phenylalanine & tyrosine metabolism	C00079	HMDB00159
+3,4-dihydroxyphenethyleneglycol	13.117	-1.9743	0.2545	-13.581	1.7696e-27	9.6172e-27	down	130	45	False	Amino acid	Phenylalanine & tyrosine metabolism	C05576	HMDB00318
+5-oxoETE	13.229	-2.0708	0.23803	-13.451	3.8304e-27	2.0594e-26	down	60	8	False	Lipid	Eicosanoid	C14732	HMDB10217
+1-myristoylglycerophosphoethanolamine	13.74	-2.3158	0.20085	-13.43	4.33e-27	2.3032e-26	down	139	49	False	Lipid	Lysolipid		HMDB11500
+valine	23.751	-0.74904	0.595	-13.261	1.1875e-26	6.2498e-26	down	0	0	False	Amino acid	Valine, leucine and isoleucine metabolism	C00183	HMDB00883
+N-acetylneuraminate	14.73	1.2106	2.3143	13.198	1.7365e-26	9.0442e-26	up	0	0	False	Carbohydrate	Aminosugars metabolism	C00270	HMDB00230
+2-stearoylglycerophosphoethanolamine*	14.066	-3.4613	0.090793	-13.129	2.6156e-26	1.3483000000000002e-25	down	136	56	False	Lipid	Lysolipid		
+beta-alanine	20.733	1.7404	3.3413	13.067	3.7841999999999997e-26	1.9307000000000001e-25	up	1	0	False	Amino acid	Alanine and aspartate metabolism	C00099	HMDB00056
+isoleucine	23.669	-0.75705	0.59171	-13.056	4.0471e-26	2.0440000000000002e-25	down	0	0	False	Amino acid	Valine, leucine and isoleucine metabolism	C00407	HMDB00172
+sarcosine (N-Methylglycine)	18.181	1.2931	2.4506	12.988	6.0709e-26	3.0354000000000003e-25	up	4	16	False	Amino acid	Glycine, serine and threonine metabolism	C00213	HMDB00271
+cysteine-glutathione disulfide	14.367	3.7512	13.465	12.963	7.0771e-26	3.5035e-25	up	11	81	False	Amino acid	Glutathione metabolism		HMDB00656
+glycylglycine	18.88	-1.4227	0.37302	-12.946	7.8106e-26	3.8287000000000003e-25	down	5	2	False	Peptide	Dipeptide	C02037	HMDB11733
+glucuronate	18.966	-2.1318	0.22817	-12.899	1.0382000000000001e-25	5.039800000000001e-25	down	28	3	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00191	HMDB00127
+gamma-glutamylglutamate	15.222	2.2537	4.7691	12.884	1.1302e-25	5.4337e-25	up	7	23	False	Peptide	gamma-glutamyl		
+putrescine	18.309	2.0584	4.1652	12.777	2.1497e-25	1.0236e-24	up	4	11	False	Amino acid	Polyamine metabolism	C00134	HMDB01414
+1-oleoylglycerophosphoserine	16.639	-1.1489	0.45096	-12.74	2.677e-25	1.2627e-24	down	1	0	False	Lipid	Lysolipid		
+myo-inositol	27.193	-1.9298	0.26246	-12.646	4.7262e-25	2.2085e-24	down	1	0	False	Lipid	Inositol metabolism	C00137	HMDB00211
+histidylleucine	16.55	1.4685	2.7673	12.638	4.9372e-25	2.2857000000000002e-24	up	0	2	False	Peptide	Dipeptide		
+N-acetylmethionine	15.107	1.4532	2.7381	12.573	7.3073e-25	3.352e-24	up	2	15	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C02712	HMDB11745
+xanthosine	15.768	-1.2475	0.42117	-12.57	7.455300000000001e-25	3.3888e-24	down	18	0	False	Nucleotide	Purine metabolism, (hypo)xanthine/inosine containing	C01762	HMDB00299
+S-adenosylhomocysteine (SAH)	14.962	0.90327	1.8703	12.538	8.9989e-25	4.0536e-24	up	0	0	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00021	HMDB00939
+pyroglutamine*	16.99	1.273	2.4167	12.397	2.0968e-24	9.3609e-24	up	1	0	False	Amino acid	Glutamate metabolism		
+aspartate	25.764	-1.1559	0.44878	-12.381	2.307e-24	1.0208e-23	down	1	0	False	Amino acid	Alanine and aspartate metabolism	C00049	HMDB00191
+asparagine	21.16	-1.3217	0.40006	-12.366	2.5338e-24	1.1113e-23	down	1	0	False	Amino acid	Alanine and aspartate metabolism	C00152	HMDB00168
+glutathione, reduced (GSH)	13.506	3.8627	14.548	12.232	5.6518e-24	2.4573e-23	up	33	99	False	Amino acid	Glutathione metabolism	C00051	HMDB00125
+riboflavin (Vitamin B2)	16.339	-1.2243	0.42801	-12.088	1.345e-23	5.7976e-23	down	14	0	False	Cofactors and vitamins	Riboflavin metabolism	C00255	HMDB00244
+gamma-tocopherol	14.271	2.8301	7.1113	12.065	1.5469e-23	6.6108e-23	up	9	39	False	Cofactors and vitamins	Tocopherol metabolism	C02483	HMDB01492
+pro-hydroxy-pro	15.388	-1.2345	0.42498	-11.98	2.5788e-23	1.0927e-22	down	11	0	False	Peptide	Dipeptide		HMDB06695
+gluconate	25.026	-1.5895	0.3323	-11.955	2.9861e-23	1.2546999999999999e-22	down	1	0	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00257	HMDB00625
+inosine	19.406	0.42923	1.3465	11.774	8.8852e-23	3.7021999999999996e-22	up	0	0	False	Nucleotide	Purine metabolism, (hypo)xanthine/inosine containing	C00294	
+malate	22.871	-1.2243	0.428	-11.74	1.0878e-22	4.495e-22	down	1	0	False	Energy	Krebs cycle	C00149	HMDB00156
+glycylproline	16.959	0.92074	1.8931	11.682	1.5403e-22	6.3127999999999995e-22	up	0	2	False	Peptide	Dipeptide		HMDB00721
+citrate	19.735	2.8674	7.2973	11.639	1.9929e-22	8.101099999999999e-22	up	1	0	False	Energy	Krebs cycle	C00158	HMDB00094
+laurylcarnitine	13.795	2.1321	4.3835	11.621	2.2186999999999997e-22	8.9463e-22	up	31	110	False	Lipid	Carnitine metabolism		HMDB02250
+Isobar: ribulose 5-phosphate, xylulose 5-phosphate	18.848	1.1548	2.2265	11.518	4.1271e-22	1.6509e-21	up	1	0	False	Carbohydrate	Nucleotide sugars, pentose metabolism		
+serylleucine	17.641	1.654	3.147	11.501	4.5869e-22	1.8201999999999997e-21	up	0	0	False	Peptide	Dipeptide		
+2-linoleoylglycerophosphoethanolamine*	14.817	-1.5402	0.34384	-11.454	6.0789e-22	2.3933e-21	down	11	3	False	Lipid	Lysolipid		
+aspartylleucine	18.315	1.2143	2.3203	11.441	6.5645e-22	2.5642999999999998e-21	up	0	0	False	Peptide	Dipeptide		
+tyrosylvaline	13.801	1.9312	3.8137	11.435	6.8043e-22	2.6373e-21	up	24	68	False	Peptide	Dipeptide		
+5-HETE	13.339	-2.3082	0.20191	-11.347	1.1531999999999998e-21	4.435199999999999e-21	down	61	16	False	Lipid	Eicosanoid		
+2-hydroxyisobutyrate	16.92	-1.6609	0.31625	-11.272	1.8141999999999997e-21	6.924399999999999e-21	down	69	10	False	Xenobiotics	Chemical		HMDB00729
+ethanolamine	23.547	-1.3914	0.3812	-11.27	1.8373999999999997e-21	6.960000000000001e-21	down	1	0	False	Lipid	Glycerolipid metabolism	C00189	HMDB00149
+glutamate, gamma-methyl ester	20.343	-1.2047	0.43385	-11.008	8.845599999999999e-21	3.3254e-20	down	0	0	False	Amino acid	Glutamate metabolism		
+adipate	15.304	-1.622	0.32488	-10.914	1.5484e-20	5.7774e-20	down	71	19	False	Lipid	Fatty acid, dicarboxylate	C06104	HMDB00448
+phenylalanylproline	11.273	1.4228	2.6811	10.879	1.9133e-20	7.0861e-20	up	47	90	False	Peptide	Dipeptide		
+glycylphenylalanine	11.136	1.1674	2.246	10.851	2.2657e-20	8.3297e-20	up	59	105	False	Peptide	Dipeptide		
+trigonelline (N'-methylnicotinate)	15.343	-1.258	0.41812	-10.835	2.4901e-20	9.088000000000001e-20	down	18	5	False	Cofactors and vitamins	Nicotinate and nicotinamide metabolism	C01004	HMDB00875
+5,6-dihydrouracil	17.212	2.2983	4.9188	10.81	2.8886e-20	1.0466000000000001e-19	up	6	44	False	Nucleotide	Pyrimidine metabolism, uracil containing	C00429	HMDB00076
+10-heptadecenoate (17:1n7)	18.278	0.71159	1.6376	10.74	4.4114e-20	1.5868e-19	up	0	0	False	Lipid	Long chain fatty acid		
+cytidine 5'-monophosphate (5'-CMP)	16.885	0.97364	1.9638	10.685	6.1079e-20	2.1814000000000004e-19	up	1	0	False	Nucleotide	Pyrimidine metabolism, cytidine containing	C00055	HMDB00095
+phenylalanylglycine	12.258	1.6016	3.0347	10.682	6.2234e-20	2.2069000000000003e-19	up	24	49	False	Peptide	Dipeptide		
+threitol	16.326	-1.396	0.37997	-10.679	6.3509e-20	2.2362e-19	down	47	13	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C16884	HMDB04136
+N-acetylglucosamine 6-phosphate	15.225	0.88513	1.8469	10.504	1.8057e-19	6.3135e-19	up	1	0	False	Carbohydrate	Aminosugars metabolism	C00357	HMDB02817
+trans-urocanate	13.96	-1.3564	0.39056	-10.487	1.999e-19	6.940800000000001e-19	down	80	15	False	Amino acid	Histidine metabolism	C00785	HMDB00301
+maltopentaose	11.123	1.8721	3.6607	10.351	4.485700000000001e-19	1.5468e-18	up	70	137	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C06218	HMDB12254
+mannitol	22.352	-1.5567	0.33994	-10.315	5.5879e-19	1.9137e-18	down	2	0	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C00392	HMDB00765
+nervonate (24:1n9)	11.594	2.2541	4.7703	10.19	1.1744e-18	3.9945e-18	up	39	97	False	Lipid	Long chain fatty acid	C08323	HMDB02368
+xanthine	19.567	-0.53242	0.69139	-10.157	1.4315e-18	4.8363e-18	down	0	0	False	Nucleotide	Purine metabolism, (hypo)xanthine/inosine containing	C00385	HMDB00292
+6-phosphogluconate	13.485	1.4239	2.6832	10.125	1.73e-18	5.8054e-18	up	10	22	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00345	HMDB01316
+valerylcarnitine	15.532	-1.1218	0.4595	-10.02	3.2279e-18	1.076e-17	down	18	2	False	Lipid	Fatty acid metabolism		HMDB13128
+tyrosylalanine	15.18	1.3088	2.4774	9.9642	4.488e-18	1.4861e-17	up	7	30	False	Peptide	Dipeptide		
+glycerophosphoethanolamine	18.274	-1.8705	0.27347	-9.8443	9.1301e-18	3.0033e-17	down	12	1	False	Lipid	Glycerolipid metabolism	C01233	HMDB00114
+VGAHAGEYGAEALER*	11.326	1.9571	3.8828	9.8013	1.178e-17	3.8497e-17	up	66	124	False	Peptide	Polypeptide		
+eicosapentaenoate (EPA; 20:5n3)	20.108	-0.97279	0.50952	-9.7936	1.2329e-17	4.0029e-17	down	0	0	False	Lipid	Essential fatty acid	C06428	HMDB01999
+lysyltyrosine	13.859	2.2423	4.7315	9.7775	1.3554e-17	4.3723e-17	up	14	43	False	Peptide	Dipeptide		
+adenosine 3'-monophosphate (3'-AMP)	15.793	-0.96432	0.51252	-9.7424	1.6688e-17	5.3486e-17	down	4	1	False	Nucleotide	Purine metabolism, adenine containing	C01367	HMDB03540
+spermidine	18.407	0.80846	1.7513	9.7289	1.807e-17	5.7549e-17	up	1	2	False	Amino acid	Polyamine metabolism	C00315	HMDB01257
+phenylalanylaspartate	13.835	2.5841	5.9965	9.7194	1.9113e-17	6.0483e-17	up	15	52	False	Peptide	Dipeptide		
+3-(4-hydroxyphenyl)lactate	11.541	1.3139	2.4862	9.6279	3.2791e-17	1.0312e-16	up	5	52	False	Amino acid	Phenylalanine & tyrosine metabolism	C03672	HMDB00755
+prolylglycine	14.768	-1.3323	0.39713	-9.6237	3.3603e-17	1.0501e-16	down	37	9	False	Peptide	Dipeptide		
+tyrosylglutamine	15.174	0.986	1.9807	9.568	4.6674e-17	1.4495e-16	up	4	9	False	Peptide	Dipeptide		
+beta-tocopherol	11.747	1.991	3.9752	9.5465	5.2977e-17	1.6351e-16	up	57	109	False	Cofactors and vitamins	Tocopherol metabolism	C14152	HMDB06335
+3-methylhistidine	11.659	-0.94422	0.51971	-9.4525	9.2049e-17	2.8236e-16	down	103	47	False	Amino acid	Histidine metabolism	C01152	HMDB00479
+phenylalanyltyrosine	13.127	1.5801	2.99	9.429	1.0565e-16	3.2211e-16	up	62	107	False	Peptide	Dipeptide		
+2-aminoadipate	19.295	1.3991	2.6373	9.3714	1.4813e-16	4.4887e-16	up	1	0	False	Amino acid	Lysine metabolism	C00956	HMDB00510
+adenosine 2'-monophosphate (2'-AMP)	16.654	-0.8141	0.56876	-9.3405	1.7757e-16	5.3484e-16	down	0	0	False	Nucleotide	Purine metabolism, adenine containing	C00946	HMDB11617
+4-hydroxyglutamate	13.342	2.2235	4.6702	9.2751	2.6037e-16	7.7954e-16	up	56	113	False	Amino acid	Glutamate metabolism	C03079	HMDB01344
+serylphenyalanine	16.682	1.0922	2.1319	9.2368	3.257e-16	9.6935e-16	up	4	1	False	Peptide	Dipeptide		
+2-palmitoleoylglycerophosphocholine*	16.134	1.4517	2.7354	9.214	3.7212e-16	1.101e-15	up	8	24	False	Lipid	Lysolipid		
+xylitol	20.364	-1.0907	0.46954	-9.1909	4.2587e-16	1.2526e-15	down	1	0	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00379	HMDB00568
+5-aminovalerate	13.526	1.424	2.6833	9.1811	4.5097e-16	1.3186e-15	up	38	101	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C00431	HMDB03355
+lactate	29.158	0.53301	1.4469	9.1059	6.9902e-16	2.032e-15	up	1	0	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00186	HMDB00190
+tyrosylphenylalanine	14.734	1.6047	3.0413	9.0983	7.3047e-16	2.1112e-15	up	24	64	False	Peptide	Dipeptide		
+alanylleucine	17.593	1.4545	2.7407	9.0933	7.5211e-16	2.1612e-15	up	1	0	False	Peptide	Dipeptide		
+3-aminoisobutyrate	21.793	1.6161	3.0655	8.9664	1.5724e-15	4.4927e-15	up	1	0	False	Nucleotide	Pyrimidine metabolism, thymine containing; Valine, leucine and isoleucine metabolism/	C05145	HMDB03911
+leucylhistidine	12.896	2.434	5.404	8.8849	2.5219e-15	7.1644e-15	up	29	90	False	Peptide	Dipeptide		
+cortisone	13.375	-1.4634	0.36265	-8.876	2.6556e-15	7.5018e-15	down	110	62	False	Lipid	Sterol/Steroid	C00762	HMDB02802
+urea	24.74	-0.76766	0.58737	-8.8582	2.9435e-15	8.2683e-15	down	1	0	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C00086	HMDB00294
+creatine	20.395	0.76904	1.7041	8.8461	3.1563e-15	8.8166e-15	up	0	0	False	Amino acid	Creatine metabolism	C00300	HMDB00064
+1-methylimidazoleacetate	14.576	-1.1194	0.46027	-8.7917	4.3209e-15	1.2003e-14	down	37	3	False	Amino acid	Histidine metabolism	C05828	HMDB02820
+1-pentadecanoylglycerophosphocholine*	14.433	-1.7834	0.29051	-8.7216	6.4745e-15	1.7885e-14	down	66	18	False	Lipid	Lysolipid		
+threonylphenylalanine	14.515	2.6501	6.2772	8.6995	7.3516e-15	2.0197e-14	up	19	47	False	Peptide	Dipeptide		
+N-methylglutamate	14.03	-2.1328	0.22802	-8.6981	7.4128e-15	2.0254e-14	down	66	27	False	Amino acid	Glutamate metabolism	C01046	
+cis-aconitate	12.989	1.7458	3.3538	8.6122	1.2143e-14	3.2996e-14	up	6	27	False	Energy	Krebs cycle	C00417	HMDB00072
+xylulose	16.307	0.84648	1.7981	8.5177	2.0866e-14	5.6393e-14	up	2	2	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00310	HMDB00654
+arginylphenylalanine	13.421	2.6988	6.4926	8.5096	2.1855e-14	5.8749e-14	up	21	60	False	Peptide	Dipeptide		
+glutarylcarnitine (C5)	14.333	-1.3923	0.38096	-8.4804	2.5825e-14	6.905e-14	down	110	52	False	Amino acid	Lysine metabolism		HMDB13130
+N-acetylserine	17.347	-0.79516	0.57628	-8.3882	4.3702e-14	1.1623e-13	down	8	3	False	Amino acid	Glycine, serine and threonine metabolism		HMDB02931
+nicotinamide adenine dinucleotide (NAD+)	16.372	-2.0516	0.24121	-8.3426	5.6639e-14	1.4984e-13	down	15	2	False	Cofactors and vitamins	Nicotinate and nicotinamide metabolism	C00003	HMDB00902
+sorbitol	20.85	2.3847	5.2225	8.3345	5.928e-14	1.56e-13	up	2	33	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C00794	HMDB00247
+octanoylcarnitine	14.874	1.4685	2.7674	8.3245	6.2755e-14	1.6428e-13	up	10	37	False	Lipid	Carnitine metabolism		
+phosphoenolpyruvate (PEP)	15.498	-1.6255	0.32409	-8.3139	6.6638e-14	1.7354e-13	down	30	10	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00074	HMDB00263
+1-heptadecanoylglycerophosphocholine	15.379	-1.7405	0.29927	-8.309	6.8531e-14	1.7754e-13	down	46	10	False	Lipid	Lysolipid		HMDB12108
+1-oleoylglycerophosphocholine	19.68	-1.4781	0.35897	-8.307	6.9325e-14	1.7867e-13	down	0	0	False	Lipid	Lysolipid		
+Isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate	11.855	1.3345	2.5218	8.3011	7.1693e-14	1.8383e-13	up	61	109	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism		
+pivaloylcarnitine	12.553	-1.2402	0.42332	-8.2719	8.4595e-14	2.158e-13	down	101	49	False	Xenobiotics	Drug		
+homostachydrine*	13.366	0.9216	1.8942	8.1749	1.4638e-13	3.7154e-13	up	33	65	False	Xenobiotics	Food component/Plant	C08283	
+docosapentaenoate (n6 DPA; 22:5n6)	18.23	-0.97872	0.50743	-8.1393	1.7898e-13	4.5196e-13	down	12	2	False	Lipid	Essential fatty acid	C16513	HMDB13123
+oleoylcarnitine	18.076	2.0361	4.1013	8.1063	2.155e-13	5.4146e-13	up	1	7	False	Lipid	Carnitine metabolism		HMDB05065
+stearidonate (18:4n3)	14.744	0.75834	1.6915	8.0743	2.5811e-13	6.4528e-13	up	0	1	False	Lipid	Long chain fatty acid	C16300	HMDB06547
+phenylalanylleucine	15.629	2.204	4.6075	8.0409	3.1135e-13	7.745e-13	up	13	30	False	Peptide	Dipeptide		
+2-hydroxypalmitate	15.272	1.1933	2.2868	8.0286	3.3357e-13	8.2567e-13	up	1	50	False	Lipid	Fatty acid, monohydroxy		
+sphingosine	16.744	1.5139	2.8558	8.0267	3.3719e-13	8.3051e-13	up	3	23	False	Lipid	Sphingolipid	C00319	HMDB00252
+isobutyrylcarnitine	16.568	-0.96436	0.51251	-8.0206	3.4895e-13	8.5526e-13	down	1	0	False	Amino acid	Valine, leucine and isoleucine metabolism		
+lysine	20.312	-0.54349	0.68611	-8.0139	3.6227e-13	8.8358e-13	down	0	0	False	Amino acid	Lysine metabolism	C00047	HMDB00182
+methionylalanine	11.911	2.1993	4.5927	7.9895	4.1526e-13	1.0079e-12	up	69	107	False	Peptide	Dipeptide		
+arachidate (20:0)	15.345	1.1946	2.2887	7.9166	6.2451e-13	1.5085e-12	up	21	33	False	Lipid	Long chain fatty acid	C06425	HMDB02212
+phenylalanylphenylalanine	12.808	2.0754	4.2146	7.9086	6.5291e-13	1.5695e-12	up	42	86	False	Peptide	Dipeptide		
+1-palmitoylglycerophosphocholine	21.347	-1.4242	0.37264	-7.8787	7.7138e-13	1.8454e-12	down	0	0	False	Lipid	Lysolipid		
+homoserine	14.252	1.1783	2.263	7.7869	1.2853e-12	3.0603e-12	up	44	79	False	Amino acid	Glycine, serine and threonine metabolism	C00263	HMDB00719
+15-methylpalmitate (isobar with 2-methylpalmitate)	17.932	0.49271	1.4071	7.7166	1.8973e-12	4.4959e-12	up	1	0	False	Lipid	Fatty acid, branched		
+cytidine-3'-monophosphate (3'-CMP)	14.712	-1.1363	0.45493	-7.692	2.1733e-12	5.1256e-12	down	108	49	False	Nucleotide	Pyrimidine metabolism, cytidine containing	C05822	
+Ac-Ser-Asp-Lys-Pro-OH	14.919	0.74867	1.6802	7.6902	2.1956e-12	5.154e-12	up	4	9	False	Peptide	Polypeptide		
+linolenate [alpha or gamma; (18:3n3 or 6)]	19.993	0.63924	1.5575	7.6762	2.3711e-12	5.54e-12	up	0	0	False	Lipid	Essential fatty acid	C06427	HMDB01388
+guanidinoacetate	15.424	-1.5643	0.33814	-7.6646	2.5279e-12	5.8789e-12	down	90	36	False	Amino acid	Guanidino and acetamido metabolism	C00581	HMDB00128
+uracil	22.191	-0.68534	0.62186	-7.6396	2.9011e-12	6.7156e-12	down	1	0	False	Nucleotide	Pyrimidine metabolism, uracil containing	C00106	HMDB00300
+guanosine 5'- monophosphate (5'-GMP)	15.459	1.5488	2.9258	7.6339	2.9942e-12	6.899e-12	up	24	28	False	Nucleotide	Purine metabolism, guanine containing		
+choline	21.267	-0.52932	0.69288	-7.6064	3.484e-12	7.9909e-12	down	0	0	False	Lipid	Glycerolipid metabolism	C00114	
+uridine monophosphate (5' or 3')	15.473	1.2732	2.417	7.6026	3.558e-12	8.1232e-12	up	22	25	False	Nucleotide	Pyrimidine metabolism, uracil containing		
+leucylserine	13.84	2.2377	4.7164	7.4797	6.9778e-12	1.5859e-11	up	32	63	False	Peptide	Dipeptide		
+phenol sulfate	13.257	-0.78326	0.58105	-7.4623	7.6734e-12	1.7361e-11	down	8	0	False	Amino acid	Phenylalanine & tyrosine metabolism	C02180	
+glutamine	21.543	0.5465	1.4605	7.4354	8.8832e-12	2.0007e-11	up	0	0	False	Amino acid	Glutamate metabolism	C00064	HMDB00641
+1-stearoylglycerol (1-monostearin)	17.09	-0.6021	0.6588	-7.3769	1.2214e-11	2.7387e-11	down	1	0	False	Lipid	Monoacylglycerol	D01947	
+undecanedioate	10.99	0.76126	1.695	7.3655	1.2996e-11	2.901e-11	up	37	65	False	Lipid	Fatty acid, dicarboxylate		HMDB00888
+tryptophylleucine	11.812	1.8134	3.5148	7.3049	1.8045e-11	4.01e-11	up	54	92	False	Peptide	Dipeptide		
+palmitoleate (16:1n7)	21.425	0.51703	1.431	7.2849	2.011e-11	4.4492e-11	up	0	0	False	Lipid	Long chain fatty acid	C08362	HMDB03229
+2-isopropylmalate	12.1	-0.94348	0.51998	-7.2056	3.0831e-11	6.7911e-11	down	62	23	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C02504	HMDB00402
+valylmethionine	15.136	1.5253	2.8785	7.1934	3.2922e-11	7.2196e-11	up	13	23	False	Peptide	Dipeptide		
+phenylalanylglutamate	15.585	1.4403	2.7138	7.1241	4.7746e-11	1.0425e-10	up	9	10	False	Peptide	Dipeptide		
+N-acetylarginine	11.523	1.3408	2.5329	7.1197	4.8891e-11	1.0628e-10	up	52	72	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C02562	HMDB04620
+quinate	16.489	-0.93816	0.5219	-7.1183	4.9243e-11	1.0659e-10	down	18	10	False	Xenobiotics	Food component/Plant	C00296	HMDB03072
+gamma-glutamylisoleucine*	13.817	-1.1033	0.46544	-7.1067	5.2404e-11	1.1294e-10	down	56	23	False	Peptide	gamma-glutamyl		HMDB11170
+gulono-1,4-lactone	18.284	-0.89329	0.53838	-7.0994	5.4494e-11	1.1694e-10	down	7	4	False	Cofactors and vitamins	Ascorbate and aldarate metabolism	C01040	HMDB03466
+alanylphenylalanine	14.691	1.6802	3.2048	7.0107	8.7434e-11	1.8682e-10	up	22	34	False	Peptide	Dipeptide		
+1-myristoylglycerophosphocholine	15.822	-1.2294	0.4265	-6.9814	1.0214e-10	2.1732e-10	down	27	5	False	Lipid	Lysolipid		HMDB10379
+ribulose	17.658	0.6089	1.5251	6.9732	1.0668e-10	2.2603e-10	up	2	0	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00309	HMDB00621,HMDB03371
+phenylalanylmethionine	12.334	1.6747	3.1924	6.9645	1.1168e-10	2.3561e-10	up	49	86	False	Peptide	Dipeptide		
+androsterone sulfate	12.055	-0.9451	0.51939	-6.9565	1.1652e-10	2.4479e-10	down	51	22	False	Lipid	Sterol/Steroid	C00523	HMDB02759
+glycerophosphorylcholine (GPC)	21.66	0.62306	1.5401	6.9435	1.2486e-10	2.6122e-10	up	0	0	False	Lipid	Glycerolipid metabolism	C00670	HMDB00086
+linoleate (18:2n6)	23.373	0.42633	1.3438	6.9364	1.296e-10	2.7001e-10	up	0	0	False	Lipid	Essential fatty acid	C01595	HMDB00673
+hexanoylcarnitine	17.431	0.79046	1.7296	6.935	1.3058e-10	2.7091e-10	up	0	1	False	Lipid	Carnitine metabolism	C01585	HMDB00705
+tyrosylglycine	16.792	0.65095	1.5702	6.8857	1.694e-10	3.5e-10	up	1	3	False	Peptide	Dipeptide		
+tartarate	12.35	-1.6209	0.32514	-6.8588	1.9518e-10	4.016e-10	down	97	59	False	Xenobiotics	Food component/Plant	C00898	HMDB00956
+arginylleucine	14.111	2.6115	6.1115	6.843	2.121e-10	4.3464e-10	up	25	54	False	Peptide	Dipeptide		
+catechol sulfate	11.007	-0.80213	0.5735	-6.7965	2.7074e-10	5.5253e-10	down	92	51	False	Xenobiotics	Benzoate metabolism	C00090	
+gamma-glutamylglutamine	13.226	1.5054	2.839	6.7056	4.3524e-10	8.8463e-10	up	49	72	False	Peptide	gamma-glutamyl		HMDB11738
+cytidine	14.823	-1.1143	0.46191	-6.642	6.0553e-10	1.2258e-09	down	23	10	False	Nucleotide	Pyrimidine metabolism, cytidine containing	C00475	HMDB00089
+isoleucyltyrosine	13.026	1.6198	3.0733	6.5596	9.2673e-10	1.8684e-09	up	51	78	False	Peptide	Dipeptide		
+methylphosphate	24.389	-0.61584	0.65255	-6.5136	1.174e-09	2.3574e-09	down	1	0	False	Nucleotide	Purine and pyrimidine metabolism		
+alanine	27.817	-0.47679	0.71858	-6.4378	1.7303e-09	3.4606e-09	down	1	0	False	Amino acid	Alanine and aspartate metabolism	C00041	HMDB00161
+phosphate	29.223	-0.33648	0.79197	-6.4262	1.8353e-09	3.6559e-09	down	1	0	False	Energy	Oxidative phosphorylation	C00009	HMDB01429
+stearate (18:0)	22.769	0.43029	1.3475	6.3904	2.2025e-09	4.37e-09	up	0	0	False	Lipid	Long chain fatty acid	C01530	HMDB00827
+succinate	20.387	0.79282	1.7325	6.3808	2.3126e-09	4.5704e-09	up	1	0	False	Energy	Krebs cycle	C00042	HMDB00254
+sphinganine	13.177	1.2913	2.4475	6.3762	2.3665e-09	4.6584e-09	up	61	102	False	Lipid	Sphingolipid	C00836	HMDB00269
+chiro-inositol	15.441	-0.99524	0.50165	-6.3194	3.1553e-09	6.1868e-09	down	70	42	False	Lipid	Inositol metabolism		
+mannose	21.909	0.81274	1.7565	6.2916	3.6313e-09	7.0923e-09	up	1	0	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C00159	HMDB00169
+palmitoylcarnitine	18.279	1.328	2.5106	6.2312	4.9196e-09	9.5711e-09	up	0	1	False	Lipid	Carnitine metabolism	C02990	
+tyrosylleucine	15.021	1.9053	3.746	6.2112	5.4373e-09	1.0537e-08	up	10	20	False	Peptide	Dipeptide		
+myristoylcarnitine	16.525	1.1986	2.2951	6.1857	6.1795e-09	1.193e-08	up	8	16	False	Lipid	Carnitine metabolism		
+squalene	15.741	-0.98373	0.50567	-6.1612	6.9818e-09	1.3427e-08	down	77	39	False	Lipid	Sterol/Steroid	C00751	HMDB00256
+stachydrine	18.137	0.52428	1.4382	6.1533	7.2621e-09	1.3912e-08	up	6	7	False	Xenobiotics	Food component/Plant	C10172	HMDB04827
+arginine	16.647	-0.40873	0.75329	-6.1293	8.1841e-09	1.5619e-08	down	0	0	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C00062	HMDB00517
+N-6-trimethyllysine	15.989	-0.51592	0.69935	-6.126	8.318e-09	1.5814e-08	down	1	0	False	Amino acid	Lysine metabolism	C03793	HMDB01325
+p-cresol sulfate	15.138	-0.65687	0.63425	-6.0282	1.35e-08	2.5568e-08	down	2	1	False	Amino acid	Phenylalanine & tyrosine metabolism	C01468	
+citrulline	15.56	0.62759	1.545	5.9621	1.8675e-08	3.5236e-08	up	1	3	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C00327	HMDB00904
+adenosine	17.813	-0.63348	0.64462	-5.9526	1.9571e-08	3.6788e-08	down	1	1	False	Nucleotide	Purine metabolism, adenine containing	C00212	HMDB00050
+sorbitol 6-phosphate	12.663	0.69095	1.6143	5.9437	2.0437e-08	3.8272e-08	up	20	29	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C01096	HMDB05831
+butyrylcarnitine	19.818	0.63821	1.5564	5.9404	2.0771e-08	3.8752e-08	up	0	0	False	Lipid	Fatty acid metabolism (also BCAA metabolism)		
+xylose	16.154	-1.3409	0.39476	-5.9147	2.3552e-08	4.3778e-08	down	57	33	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00181	HMDB00098
+threonylleucine	16.7	1.1638	2.2404	5.9096	2.4141e-08	4.4706e-08	up	10	9	False	Peptide	Dipeptide		
+histamine	16.527	1.6202	3.0743	5.8755	2.8505e-08	5.2592e-08	up	36	65	False	Amino acid	Histidine metabolism	C00388	HMDB00870
+N1-Methyl-2-pyridone-5-carboxamide	15.64	-0.63362	0.64456	-5.8463	3.2836e-08	6.0361e-08	down	13	3	False	Cofactors and vitamins	Nicotinate and nicotinamide metabolism	C05842	HMDB04193
+cytosine-2',3'-cyclic monophosphate	14.003	-1.002	0.4993	-5.8403	3.3809e-08	6.1921e-08	down	56	18	False	Nucleotide	Pyrimidine metabolism, cytidine containing	C02354	HMDB11691
+aspartate-glutamate	14.955	-0.73358	0.60141	-5.8302	3.5504e-08	6.4789e-08	down	21	3	False	Peptide	Dipeptide		
+valyltryptophan	14.745	1.3109	2.481	5.7811	4.4985e-08	8.1791e-08	up	21	31	False	Peptide	Dipeptide		
+oleate (18:1n9)	23.167	0.4929	1.4073	5.7758	4.6142e-08	8.3591e-08	up	1	0	False	Lipid	Long chain fatty acid	C00712	HMDB00207
+tyrosylhistidine	15.806	0.71568	1.6423	5.7192	6.056e-08	1.0931e-07	up	6	3	False	Peptide	Dipeptide		
+myristoleate (14:1n5)	16.764	-0.39496	0.76051	-5.7008	6.6136e-08	1.1895e-07	down	1	0	False	Lipid	Long chain fatty acid	C08322	HMDB02000
+aspartyltryptophan	15.31	-0.82925	0.56282	-5.6972	6.7278e-08	1.2057e-07	down	15	5	False	Peptide	Dipeptide		
+2-myristoylglycerophosphocholine*	14.344	0.91781	1.8892	5.685	7.1304e-08	1.2733e-07	up	39	64	False	Lipid	Lysolipid		
+methionylglycine	13.493	1.2482	2.3754	5.6707	7.6319e-08	1.358e-07	up	38	58	False	Peptide	Dipeptide		
+N-acetylleucine	14.666	0.95574	1.9396	5.6666	7.7842e-08	1.3802e-07	up	31	49	False	Amino acid	Valine, leucine and isoleucine metabolism	C02710	HMDB11756
+histidylphenylalanine	13.539	1.0974	2.1396	5.6099	1.0188e-07	1.8001e-07	up	44	64	False	Peptide	Dipeptide		
+1-palmitoleoylglycerophosphocholine*	16.933	-0.9953	0.50163	-5.5994	1.0703e-07	1.8844e-07	down	8	2	False	Lipid	Lysolipid		
+valylleucine	17.649	1.0368	2.0516	5.5939	1.0989e-07	1.9278e-07	up	2	0	False	Peptide	Dipeptide		
+gamma-glutamylcysteine	14.275	1.0682	2.0968	5.5589	1.2959e-07	2.2656e-07	up	30	30	False	Peptide	gamma-glutamyl	C00669	HMDB01049
+2-aminobutyrate	22.105	0.38999	1.3104	5.5502	1.3497e-07	2.3515e-07	up	1	0	False	Amino acid	Butanoate metabolism	C02261	HMDB00650
+choline phosphate	20.601	0.38573	1.3065	5.544	1.3896e-07	2.4126e-07	up	0	0	False	Lipid	Glycerolipid metabolism	C00588	
+sedoheptulose-7-phosphate	15.744	0.71563	1.6422	5.5225	1.5374e-07	2.6599e-07	up	3	4	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C05382	HMDB01068
+glycyltyrosine	15.49	0.5226	1.4365	5.493	1.7653e-07	3.0437e-07	up	10	9	False	Peptide	Dipeptide		
+cis-vaccenate (18:1n7)	20.251	0.50633	1.4204	5.4611	2.0482e-07	3.5192e-07	up	3	0	False	Lipid	Long chain fatty acid	C08367	
+nicotinamide ribonucleotide (NMN)	16.428	-1.2851	0.41034	-5.4113	2.5816e-07	4.4206e-07	down	24	4	False	Cofactors and vitamins	Nicotinate and nicotinamide metabolism	C00455	HMDB00229
+1-docosahexaenoylglycerophosphocholine*	14.94	-1.0514	0.4825	-5.3801	2.9812e-07	5.0873e-07	down	63	24	False	Lipid	Lysolipid		
+deoxycarnitine	16.65	0.40033	1.3198	5.3604	3.2649e-07	5.5526e-07	up	0	1	False	Lipid	Carnitine metabolism	C01181	HMDB01161
+leucylalanine	15.783	0.84399	1.795	5.3196	3.9383e-07	6.675e-07	up	6	4	False	Peptide	Dipeptide		
+histidyltryptophan	12.385	0.8049	1.747	5.301	4.2882e-07	7.2436e-07	up	70	97	False	Peptide	Dipeptide		
+glycolate (hydroxyacetate)	17.234	-0.34549	0.78704	-5.2939	4.431e-07	7.4595e-07	down	1	0	False	Xenobiotics	Chemical	C00160	HMDB00115
+leucylleucine	15.773	1.1024	2.1471	5.2756	4.8168e-07	8.0819e-07	up	4	3	False	Peptide	Dipeptide	C11332	
+carnitine	22.174	0.33982	1.2656	5.2317	5.8797e-07	9.8323e-07	up	0	0	False	Lipid	Carnitine metabolism	C00318	
+alanyltyrosine	14.597	1.1186	2.1714	5.2255	6.0478e-07	1.0067e-06	up	13	20	False	Peptide	Dipeptide		
+1-stearoylglycerophosphocholine	19.853	-1.1137	0.46212	-5.2251	6.0602e-07	1.0067e-06	down	0	0	False	Lipid	Lysolipid		
+valylphenylalanine	15.859	0.92178	1.8945	5.2206	6.1837e-07	1.0238e-06	up	9	4	False	Peptide	Dipeptide		
+gamma-glutamylphenylalanine	15.138	-0.48314	0.71542	-5.219	6.2289e-07	1.0279e-06	down	18	1	False	Peptide	gamma-glutamyl		HMDB00594
+methionylleucine	12.886	1.3833	2.6086	5.1621	8.0557e-07	1.3223e-06	up	60	83	False	Peptide	Dipeptide		
+phenylalanylvaline	14.312	1.0282	2.0395	5.1618	8.0658e-07	1.3223e-06	up	31	40	False	Peptide	Dipeptide		
+lysylleucine	16.527	0.93008	1.9054	5.062	1.2603e-06	2.0593e-06	up	11	12	False	Peptide	Dipeptide		
+arginyltyrosine	12.124	1.129	2.1871	5.0284	1.4627e-06	2.3823e-06	up	61	86	False	Peptide	Dipeptide		
+isoleucylglycine	17.866	-0.53138	0.69189	-5.0252	1.4835e-06	2.4082e-06	down	0	0	False	Peptide	Dipeptide		
+valylglutamate	16.742	0.51797	1.4319	4.9634	1.9483e-06	3.1526e-06	up	1	1	False	Peptide	Dipeptide		
+methionylasparagine	12.307	0.93966	1.9181	4.9363	2.194e-06	3.5386e-06	up	65	89	False	Peptide	Dipeptide		
+4-hydroxybutyrate (GHB)	18.102	0.74006	1.6702	4.9225	2.33e-06	3.746e-06	up	1	0	False	Lipid	Fatty acid, monohydroxy	C00989	HMDB00710
+adenosine 5'-monophosphate (AMP)	18.452	0.64369	1.5623	4.9151	2.4066e-06	3.8567e-06	up	0	0	False	Nucleotide	Purine metabolism, adenine containing	C00020	HMDB00045
+leucylglutamate	15.206	1.0583	2.0825	4.8661	2.9789e-06	4.7586e-06	up	16	20	False	Peptide	Dipeptide		
+3-indoxyl sulfate	10.968	-0.7806	0.58212	-4.8588	3.0749e-06	4.8963e-06	down	87	53	False	Amino acid	Tryptophan metabolism		HMDB00682
+trans-4-hydroxyproline	18.022	-0.97474	0.50883	-4.8226	3.5952e-06	5.7066e-06	down	45	16	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C01157	HMDB00725
+2-stearoylglycerophosphocholine*	15.731	-1.0868	0.47081	-4.8064	3.8551e-06	6.0998e-06	down	24	15	False	Lipid	Lysolipid		
+1-oleoylglycerol (1-monoolein)	16.565	0.5594	1.4737	4.7822	4.2772e-06	6.7464e-06	up	3	2	False	Lipid	Monoacylglycerol		HMDB11567
+pentadecanoate (15:0)	17.721	0.39494	1.3149	4.6975	6.1363e-06	9.6483e-06	up	6	4	False	Lipid	Long chain fatty acid	C16537	HMDB00826
+alanylglutamate	13.501	1.1343	2.1951	4.5367	1.2031e-05	1.8857e-05	up	30	43	False	Peptide	Dipeptide		
+valylserine	11.983	0.60444	1.5204	4.4976	1.414e-05	2.2094e-05	up	51	56	False	Peptide	Dipeptide		
+alanyltryptophan	13.992	0.87667	1.8361	4.4913	1.4511e-05	2.2603e-05	up	26	38	False	Peptide	Dipeptide		
+leucylglycine	16.437	0.79857	1.7394	4.4796	1.5222e-05	2.3637e-05	up	3	1	False	Peptide	Dipeptide		
+N-acetylasparagine	15.434	0.76621	1.7008	4.4758	1.5466e-05	2.3941e-05	up	17	13	False	Amino acid	Alanine and aspartate metabolism		HMDB06028
+heme	12.801	1.8665	3.6465	4.4397	1.7922e-05	2.7657e-05	up	64	90	False	Cofactors and vitamins	Hemoglobin and porphyrin metabolism	C00032	
+N-acetylphenylalanine	10.313	-0.5885	0.66503	-4.4136	1.9934e-05	3.0668e-05	down	105	70	False	Amino acid	Phenylalanine & tyrosine metabolism	C03519	HMDB00512
+glycerol 2-phosphate	19.541	0.40496	1.3241	4.2718	3.5248e-05	5.4061e-05	up	1	0	False	Xenobiotics	Chemical	C02979	HMDB02520
+propionylcarnitine	19.244	-0.37332	0.772	-4.2676	3.5843e-05	5.4805e-05	down	0	0	False	Lipid	Fatty acid metabolism (also BCAA metabolism)	C03017	HMDB00824
+2-linoleoylglycerol (2-monolinolein)	11.581	0.93873	1.9168	4.221	4.3098e-05	6.5698e-05	up	67	81	False	Lipid	Monoacylglycerol		HMDB11538
+N-acetylthreonine	11.396	0.52389	1.4378	4.1904	4.8596e-05	7.3854e-05	up	48	59	False	Amino acid	Glycine, serine and threonine metabolism	C01118	
+isoleucylmethionine	13.4	1.1355	2.1969	4.1245	6.2841e-05	9.5213e-05	up	43	50	False	Peptide	Dipeptide		
+methionylglutamate	13.966	0.93488	1.9117	4.1207	6.3792e-05	9.6362e-05	up	40	55	False	Peptide	Dipeptide		
+glycylmethionine	15.184	0.46682	1.3821	4.0898	7.1881e-05	0.00010825	up	12	6	False	Peptide	Dipeptide		
+valylarginine	14.267	0.71359	1.6399	4.085	7.3209e-05	0.00010992	up	21	24	False	Peptide	Dipeptide		
+urate	15.793	-0.37411	0.77158	-4.0807	7.4451e-05	0.00011145	down	1	0	False	Nucleotide	Purine metabolism, urate metabolism	C00366	HMDB00289
+3-phosphoglycerate	19.364	-0.59162	0.6636	-4.0112	9.7108e-05	0.00014494	down	2	0	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00597	HMDB00807
+imidazole propionate	14.622	-0.48884	0.7126	-3.9663	0.00011514	0.00017135	down	36	13	False	Amino acid	Histidine metabolism		HMDB02271
+valylglycine	18.031	-0.49292	0.71058	-3.9097	0.00014239	0.00021125	down	2	0	False	Peptide	Dipeptide		
+aspartylphenylalanine	16.697	0.63109	1.5487	3.905	0.00014494	0.0002144	up	12	11	False	Peptide	Dipeptide		HMDB00706
+N-acetylisoleucine	13.798	0.50168	1.4159	3.8724	0.00016365	0.00024137	up	48	64	False	Amino acid	Valine, leucine and isoleucine metabolism		
+5-oxoproline	16.26	-0.36411	0.77695	-3.8588	0.00017211	0.0002531	down	0	0	False	Amino acid	Glutathione metabolism	C01879	HMDB00267
+margarate (17:0)	18.431	0.25498	1.1933	3.8422	0.00018298	0.00026829	up	0	0	False	Lipid	Long chain fatty acid		HMDB02259
+7-beta-hydroxycholesterol	11.979	0.85687	1.8111	3.8245	0.0001953	0.00028553	up	50	73	False	Lipid	Sterol/Steroid	C03594	HMDB06119
+valyltyrosine	14.23	0.88995	1.8531	3.8177	0.00020026	0.00029193	up	29	26	False	Peptide	Dipeptide		
+leucylmethionine	13.437	-0.76685	0.5877	-3.7914	0.00022052	0.00032053	down	67	35	False	Peptide	Dipeptide		
+isoleucyltryptophan	13.271	0.98668	1.9816	3.7597	0.00024751	0.00035871	up	55	65	False	Peptide	Dipeptide		
+2-oleoylglycerophosphoserine*	14.029	-0.52431	0.69529	-3.7403	0.00026554	0.00038373	down	27	6	False	Lipid	Lysolipid		
+glycylisoleucine	15.887	-0.3942	0.76091	-3.7208	0.00028498	0.00041063	down	5	3	False	Peptide	Dipeptide		
+azelate (nonanedioate)	12.532	0.28135	1.2153	3.6639	0.00034953	0.0005022	up	5	6	False	Lipid	Fatty acid, dicarboxylate	C08261	HMDB00784
+S-methylcysteine	17.116	-0.27559	0.82611	-3.6426	0.00037697	0.00054008	down	2	1	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism		HMDB02108
+valylhistidine	11.26	-0.50096	0.70664	-3.5542	0.00051466	0.00073523	down	69	46	False	Peptide	Dipeptide		
+palmitate (16:0)	23.484	0.23664	1.1782	3.5389	0.00054294	0.00077341	up	0	0	False	Lipid	Long chain fatty acid	C00249	HMDB00220
+5-methylthioadenosine (MTA)	15.736	0.45486	1.3707	3.5358	0.00054875	0.00077948	up	4	4	False	Amino acid	Polyamine metabolism	C00170	HMDB01173
+glycine	27.287	-0.29245	0.81651	-3.5191	0.00058147	0.00082361	down	1	0	False	Amino acid	Glycine, serine and threonine metabolism	C00037	HMDB00123
+arginylvaline	16.018	0.40823	1.3271	3.4937	0.00063482	0.00089664	up	6	4	False	Peptide	Dipeptide		
+alanylmethionine	14.051	0.85895	1.8137	3.4864	0.00065101	0.00091691	up	33	35	False	Peptide	Dipeptide		
+1-palmitoylglycerol (1-monopalmitin)	18.473	-0.33539	0.79257	-3.4733	0.00068121	0.00095675	down	1	0	False	Lipid	Monoacylglycerol		
+leucylasparagine	15.586	0.5288	1.4427	3.3719	0.00096101	0.001346	up	14	5	False	Peptide	Dipeptide		
+6'-sialyllactose	18.476	0.6457	1.5645	3.364	0.00098712	0.0013787	up	9	4	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	G00265	HMDB06569
+cholesterol	22.864	0.26651	1.2029	3.3599	0.0010006	0.0013936	up	1	0	False	Lipid	Sterol/Steroid	C00187	HMDB00067
+betaine	15.357	-0.56139	0.67765	-3.3391	0.0010728	0.00149	down	40	4	False	Amino acid	Glycine, serine and threonine metabolism	C00719	HMDB00043
+cystine	19.838	1.0467	2.0657	3.3263	0.0011193	0.0015502	up	16	27	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00491	HMDB00192
+glucarate (saccharate)	16.775	0.58313	1.4981	3.2752	0.0013257	0.001831	up	19	36	False	Cofactors and vitamins	Ascorbate and aldarate metabolism	C00818	HMDB00663
+lysylmethionine	13.042	0.5629	1.4772	3.2717	0.0013411	0.0018473	up	63	76	False	Peptide	Dipeptide		
+adrenate (22:4n6)	20.812	0.21588	1.1614	3.2658	0.001367	0.0018778	up	0	0	False	Lipid	Long chain fatty acid	C16527	HMDB02226
+leucylphenylalanine	13.139	1.053	2.0749	3.2381	0.0014971	0.0020508	up	51	65	False	Peptide	Dipeptide		
+3-hydroxyoctanoate	11.403	-0.40361	0.75596	-3.2288	0.001543	0.002108	down	53	29	False	Lipid	Fatty acid, monohydroxy		HMDB01954
+laurate (12:0)	18.593	-0.30668	0.8085	-3.184	0.001784	0.0024305	down	0	0	False	Lipid	Medium chain fatty acid	C02679	HMDB00638
+dihydrocholesterol	15.084	0.56733	1.4818	3.1713	0.0018587	0.0025254	up	33	53	False	Lipid	Sterol/Steroid		HMDB00908
+tryptophylglutamate	14.709	0.41621	1.3344	3.1426	0.0020371	0.0027604	up	23	16	False	Peptide	Dipeptide		
+glycerol 3-phosphate (G3P)	23.298	-0.31868	0.8018	-3.0844	0.0024501	0.003311	down	1	0	False	Lipid	Glycerolipid metabolism	C00093	HMDB00126
+nicotinamide	21.267	-0.19485	0.87366	-2.9859	0.0033293	0.0044869	down	0	0	False	Cofactors and vitamins	Nicotinate and nicotinamide metabolism	C00153	HMDB01406
+tryptophylasparagine	13.186	0.90485	1.8724	2.9813	0.0033767	0.0045386	up	38	42	False	Peptide	Dipeptide		
+nicotinate	13.232	0.27189	1.2074	2.9534	0.0036771	0.0049291	up	17	22	False	Cofactors and vitamins	Nicotinate and nicotinamide metabolism	C00253	HMDB01488
+alpha-glutamyltyrosine	13.676	0.77139	1.7069	2.9444	0.0037801	0.0050537	up	39	42	False	Peptide	Dipeptide		
+guanine	12.26	0.77843	1.7153	2.9178	0.0040968	0.0054624	up	64	85	False	Nucleotide	Purine metabolism, guanine containing	C00242	HMDB00132
+cytidine 5'-diphosphocholine	14.524	0.56718	1.4816	2.8766	0.004638	0.0061676	up	37	31	False	Lipid	Glycerolipid metabolism	C00307	
+isoleucylserine	16.309	0.43551	1.3524	2.8756	0.0046515	0.0061691	up	6	2	False	Peptide	Dipeptide		
+succinylcarnitine	15.451	-0.45166	0.7312	-2.8537	0.0049653	0.0065678	down	20	8	False	Energy	Krebs cycle		
+1-linoleoylglycerol (1-monolinolein)	14.565	0.45884	1.3744	2.8325	0.0052881	0.0069763	up	17	13	False	Lipid	Monoacylglycerol		
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	12.412	0.31162	1.2411	2.8282	0.0053565	0.007048	up	38	41	False	Lipid	Fatty acid, dicarboxylate		
+caproate (6:0)	13.81	-0.25151	0.84002	-2.8125	0.0056101	0.0073624	down	1	0	False	Lipid	Medium chain fatty acid	C01585	HMDB00535
+valylalanine	16.803	0.36025	1.2837	2.8107	0.0056386	0.0073803	up	0	0	False	Peptide	Dipeptide		
+threonate	18.772	0.45372	1.3696	2.7524	0.0066852	0.0087274	up	1	0	False	Cofactors and vitamins	Ascorbate and aldarate metabolism	C01620	HMDB00943
+1,3-dihydroxyacetone	15.508	0.4532	1.3691	2.7496	0.0067411	0.0087775	up	60	69	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00184	HMDB01882
+2'-deoxyinosine	11.534	0.37709	1.2987	2.6913	0.0079701	0.010351	up	42	40	False	Nucleotide	Purine metabolism, (hypo)xanthine/inosine containing	C05512	HMDB00071
+S-adenosylmethionine (SAM)	15.78	0.21277	1.1589	2.6809	0.0082072	0.010631	up	3	1	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00019	
+isoleucylarginine	14.681	-0.37932	0.7688	-2.6419	0.0091638	0.01184	down	27	8	False	Peptide	Dipeptide		
+allo-threonine	12.696	-0.66181	0.63208	-2.6397	0.0092228	0.011885	down	83	65	False	Amino acid	Glycine, serine and threonine metabolism	C05519	HMDB04041
+1-linoleoylglycerophosphocholine	19.645	-0.42111	0.74685	-2.6233	0.0096572	0.012413	down	0	0	False	Lipid	Lysolipid	C04100	
+fucose	17.681	-0.24446	0.84413	-2.6103	0.010013	0.012837	down	9	3	False	Carbohydrate	Aminosugars metabolism	C02095	HMDB00174
+hypotaurine	21.021	0.32525	1.2529	2.5993	0.010323	0.013201	up	1	0	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00519	HMDB00965
+2-arachidonoylglycerophosphoethanolamine*	16.404	-0.20272	0.86891	-2.5595	0.011525	0.0147	down	0	0	False	Lipid	Lysolipid		
+threonylmethionine	13.351	0.5279	1.4418	2.5572	0.011596	0.014754	up	39	41	False	Peptide	Dipeptide		
+stearoylcarnitine	17.825	0.6117	1.5281	2.5483	0.011885	0.015083	up	2	8	False	Lipid	Carnitine metabolism		HMDB00848
+alpha-hydroxyisovalerate	13.427	0.22178	1.1662	2.5291	0.012525	0.015855	up	6	8	False	Amino acid	Valine, leucine and isoleucine metabolism		HMDB00407
+caprate (10:0)	16.253	-0.19447	0.87389	-2.4161	0.016955	0.021408	down	0	0	False	Lipid	Medium chain fatty acid	C01571	HMDB00511
+adenylosuccinate	12.062	-0.33863	0.79079	-2.3943	0.017953	0.022611	down	69	49	False	Nucleotide	Purine metabolism, adenine containing	C03794	HMDB00536
+ribitol	20.272	-0.29076	0.81747	-2.3858	0.018358	0.023063	down	2	0	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00474	HMDB00508
+caprylate (8:0)	14.094	-0.26496	0.83222	-2.3719	0.019035	0.023853	down	13	2	False	Lipid	Medium chain fatty acid	C06423	HMDB00482
+isoleucylalanine	16.149	0.43861	1.3553	2.33	0.021211	0.026513	up	9	4	False	Peptide	Dipeptide		
+benzoate	20.454	-0.27507	0.82641	-2.278	0.024211	0.030189	down	1	0	False	Xenobiotics	Benzoate metabolism	C00180	HMDB01870
+2-phosphoglycerate	13.031	-0.56832	0.6744	-2.2724	0.024558	0.030544	down	38	31	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00631	HMDB03391
+isoleucylisoleucine	14.405	0.52138	1.4353	2.2298	0.027326	0.033903	up	37	30	False	Peptide	Dipeptide		
+aspartylvaline	10.488	-0.50441	0.70495	-2.2258	0.027599	0.034157	down	74	45	False	Peptide	Dipeptide		
+C-glycosyltryptophan*	17.488	-0.14636	0.90353	-2.2095	0.028737	0.035478	down	0	0	False	Amino acid	Tryptophan metabolism		
+3-hydroxydecanoate	11.796	-0.33661	0.7919	-2.0643	0.040806	0.050254	ns	57	43	False	Lipid	Fatty acid, monohydroxy		HMDB02203
+glycerate	20.785	-0.17327	0.88683	-2.0618	0.041045	0.050309	ns	1	0	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C00258	HMDB00139
+3-ureidopropionate	14.128	0.43221	1.3493	2.0617	0.041052	0.050309	ns	43	50	False	Amino acid	Alanine and aspartate metabolism	C02642	HMDB00026
+valylglutamine	15.987	0.26982	1.2057	2.0515	0.042047	0.051402	ns	5	1	False	Peptide	Dipeptide		
+2-ethylhexanoate	17.052	-0.25121	0.84019	-2.0407	0.043128	0.052595	ns	1	0	False	Xenobiotics	Chemical		
+2'-deoxyadenosine 3'-monophosphate	13.972	0.38955	1.31	2.024	0.044836	0.054545	ns	35	42	False	Nucleotide	Purine metabolism, adenine containing		
+theobromine	14.418	-0.28361	0.82153	-1.995	0.047945	0.058185	ns	68	52	False	Xenobiotics	Xanthine metabolism	C07480	HMDB02825
+erythritol	19.422	0.20236	1.1506	1.9811	0.049509	0.059939	ns	1	0	False	Xenobiotics	Sugar, sugar substitute, starch	C00503	HMDB02994
+homocysteine	13.826	-0.39722	0.75932	-1.9236	0.056398	0.068113	ns	47	34	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00155	HMDB00742
+agmatine	17.631	0.24419	1.1844	1.8334	0.068832	0.08293	ns	4	3	False	Amino acid	Polyamine metabolism	C00179	HMDB01432
+glycyllysine	16.942	0.37775	1.2993	1.8129	0.071958	0.086488	ns	40	52	False	Peptide	Dipeptide		
+pelargonate (9:0)	16.462	-0.13775	0.90893	-1.7925	0.075179	0.090143	ns	0	0	False	Lipid	Medium chain fatty acid	C01601	HMDB00847
+N-acetylglycine	17.108	0.14698	1.1073	1.7815	0.076959	0.092056	ns	7	4	False	Amino acid	Glycine, serine and threonine metabolism		HMDB00532
+2-oleoylglycerophosphocholine*	18.885	-0.32112	0.80045	-1.7373	0.08449	0.10082	ns	0	0	False	Lipid	Lysolipid		
+2-arachidonoylglycerophosphocholine*	18.617	0.31193	1.2414	1.7337	0.085125	0.10134	ns	0	0	False	Lipid	Lysolipid		
+1-arachidonoylglycerophosphocholine*	18.316	-0.29639	0.81429	-1.7319	0.085456	0.10149	ns	1	0	False	Lipid	Lysolipid	C05208	
+arabonate	16.649	0.17301	1.1274	1.7246	0.086772	0.10281	ns	3	3	False	Cofactors and vitamins	Ascorbate and aldarate metabolism		HMDB00539
+threonylglutamate	13.75	-0.3068	0.80843	-1.7126	0.088961	0.10515	ns	46	26	False	Peptide	Dipeptide		
+isoleucylhistidine	15.34	-0.33402	0.79332	-1.6624	0.098621	0.1163	ns	34	41	False	Peptide	Dipeptide		
+pyrophosphate (PPi)	16.075	-0.2331	0.8508	-1.6562	0.099881	0.11751	ns	30	36	False	Energy	Oxidative phosphorylation	C00013	HMDB00250
+alanylalanine	14.862	-0.21863	0.85938	-1.6407	0.10307	0.12097	ns	35	14	False	Peptide	Dipeptide	C00993	HMDB03459
+leucyltryptophan	13.694	0.28058	1.2147	1.5919	0.11363	0.13306	ns	45	49	False	Peptide	Dipeptide		
+2-hydroxybutyrate (AHB)	20.851	0.12392	1.0897	1.5709	0.11842	0.13834	ns	1	0	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C05984	HMDB00008
+2-palmitoylglycerophosphocholine*	18.214	-0.28149	0.82274	-1.5551	0.12214	0.14235	ns	1	0	False	Lipid	Lysolipid		
+phosphoethanolamine	16.756	-0.095663	0.93584	-1.5019	0.13534	0.15737	ns	0	0	False	Lipid	Glycerolipid metabolism	C00346	HMDB00224
+2-docosahexaenoylglycerophosphocholine*	15.16	-0.28318	0.82178	-1.4789	0.14136	0.16399	ns	29	18	False	Lipid	Lysolipid		
+pipecolate	14.301	0.1951	1.1448	1.4478	0.14986	0.17345	ns	36	31	False	Amino acid	Lysine metabolism	C00408	HMDB00070
+dimethylglycine	19.118	0.13543	1.0984	1.4246	0.15647	0.18068	ns	4	3	False	Amino acid	Glycine, serine and threonine metabolism	C01026	HMDB00092
+valylvaline	16.373	0.2721	1.2076	1.422	0.1572	0.1811	ns	10	3	False	Peptide	Dipeptide		
+leucylarginine	14.782	0.27601	1.2108	1.3919	0.16613	0.19095	ns	18	11	False	Peptide	Dipeptide		
+dihomo-linolenate (20:3n3 or n6)	21.228	0.10126	1.0727	1.3705	0.17269	0.19804	ns	0	0	False	Lipid	Essential fatty acid	C03242	HMDB02925
+serylvaline	16.065	0.21557	1.1612	1.3621	0.17532	0.2006	ns	17	5	False	Peptide	Dipeptide		
+16-hydroxypalmitate	12.845	-0.16612	0.89123	-1.3565	0.17708	0.20215	ns	5	5	False	Lipid	Fatty acid, monohydroxy	C18218	
+N-acetylvaline	13.757	-0.2193	0.85899	-1.3349	0.18404	0.20961	ns	57	41	False	Amino acid	Valine, leucine and isoleucine metabolism		HMDB11757
+2-docosapentaenoylglycerophosphocholine*	13.617	0.25645	1.1945	1.3183	0.18953	0.21537	ns	66	72	False	Lipid	Lysolipid		
+lidocaine	17.435	0.13549	1.0985	1.2897	0.19925	0.22591	ns	1	3	False	Xenobiotics	Drug	D00358	
+alanylglycine	15.462	0.12218	1.0884	1.2844	0.20109	0.22748	ns	5	1	False	Peptide	Dipeptide		HMDB06899
+2'-deoxyguanosine	14.95	0.20467	1.1524	1.2534	0.2121	0.23939	ns	16	15	False	Nucleotide	Purine metabolism, guanine containing	C00330	HMDB00085
+thymine	15.652	-0.18832	0.87763	-1.2335	0.2194	0.2467	ns	7	5	False	Nucleotide	Pyrimidine metabolism, thymine containing	C00178	HMDB00262
+glycerol	25.912	-0.087858	0.94092	-1.2331	0.21956	0.2467	ns	1	0	False	Lipid	Glycerolipid metabolism	C00116	HMDB00131
+galactose	17.285	0.2052	1.1528	1.2179	0.22527	0.25254	ns	26	15	False	Carbohydrate	Fructose, mannose, galactose, starch, and sucrose metabolism	C01582	HMDB00143
+valylisoleucine	15.828	0.20697	1.1543	1.1323	0.25942	0.29018	ns	9	1	False	Peptide	Dipeptide		
+indolelactate	15.292	-0.24723	0.84252	-1.1142	0.26706	0.29806	ns	43	30	False	Amino acid	Tryptophan metabolism	C02043	HMDB00671
+valyllysine	11.799	-0.13452	0.91097	-1.0356	0.30214	0.33646	ns	63	49	False	Peptide	Dipeptide		
+4-guanidinobutanoate	15.424	0.11348	1.0818	1.0298	0.30485	0.33872	ns	13	4	False	Amino acid	Guanidino and acetamido metabolism	C01035	HMDB03464
+valylaspartate	15.898	0.13347	1.0969	1.0282	0.30558	0.33878	ns	6	4	False	Peptide	Dipeptide		
+docosapentaenoate (n3 DPA; 22:5n3)	20.323	0.080097	1.0571	1.0189	0.30999	0.34215	ns	0	0	False	Lipid	Essential fatty acid	C16513	HMDB01976
+gamma-glutamylvaline	14.006	-0.15948	0.89535	-1.0201	0.3094	0.34215	ns	52	34	False	Peptide	gamma-glutamyl		HMDB11172
+testosterone	15.047	0.15108	1.1104	1.0048	0.31671	0.3488	ns	26	25	False	Lipid	Sterol/Steroid	C00535	HMDB00234
+argininosuccinate	12.691	-0.32997	0.79555	-0.9761	0.33067	0.36337	ns	61	61	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C03406	HMDB00052
+uridine	18.237	-0.052627	0.96418	-0.9507	0.34337	0.3765	ns	0	0	False	Nucleotide	Pyrimidine metabolism, uracil containing	C00299	HMDB00296
+N2-acetyllysine	15.945	-0.17433	0.88618	-0.91977	0.35925	0.39305	ns	14	0	False	Amino acid	Lysine metabolism	C12989	HMDB00446
+erythronate*	18.909	-0.065197	0.95582	-0.91251	0.36304	0.39633	ns	1	0	False	Carbohydrate	Aminosugars metabolism		HMDB00613
+prolylmethionine	14.84	0.12471	1.0903	0.84889	0.39737	0.43286	ns	28	12	False				
+glycyltryptophan	13.802	0.13153	1.0955	0.80151	0.42417	0.46106	ns	46	38	False	Peptide	Dipeptide		
+alpha-glutamylglutamate	14.7	0.11612	1.0838	0.79937	0.4254	0.46139	ns	26	9	False	Peptide	Dipeptide	C01425	
+4-androsten-3beta,17beta-diol disulfate 1*	11.465	-0.10658	0.92879	-0.78988	0.43091	0.46635	ns	60	52	False	Lipid	Sterol/Steroid		HMDB03818
+N-acetylglucosamine	16.186	-0.2097	0.86472	-0.77668	0.43863	0.47364	ns	55	62	False	Carbohydrate	Aminosugars metabolism	C00140	HMDB00215
+2-palmitoylglycerol (2-monopalmitin)	17.225	-0.11612	0.92267	-0.77514	0.43954	0.47364	ns	32	16	False	Lipid	Monoacylglycerol		
+ascorbate (Vitamin C)	22.618	-0.14624	0.9036	-0.77285	0.44089	0.47408	ns	1	1	False	Cofactors and vitamins	Ascorbate and aldarate metabolism	C00072	HMDB00044
+methionylphenylalanine	12.459	0.25744	1.1954	0.74541	0.45725	0.49061	ns	65	67	False	Peptide	Dipeptide		
+13-HODE + 9-HODE	15.906	0.081654	1.0582	0.73641	0.46269	0.49539	ns	0	0	False	Lipid	Fatty acid, monohydroxy		
+xylonate	17.207	0.072491	1.0515	0.72503	0.46962	0.50173	ns	3	2	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C05411	
+piperine	15.181	0.067419	1.0478	0.64471	0.52015	0.55453	ns	24	16	False	Xenobiotics	Food component/Plant	C03882	
+lysyllysine	17.849	0.11934	1.0862	0.60222	0.54799	0.58296	ns	13	11	False				
+isoleucylglutamate	15.182	0.13427	1.0975	0.54729	0.58504	0.62106	ns	32	36	False	Peptide	Dipeptide		
+2-docosahexaenoylglycerophosphoethanolamine*	15.191	0.097919	1.0702	0.53826	0.59124	0.62631	ns	24	23	False	Lipid	Lysolipid		
+isoleucylvaline	15.845	-0.089129	0.94009	-0.53274	0.59504	0.62901	ns	14	3	False	Peptide	Dipeptide		
+ribose	19.729	-0.075222	0.9492	-0.48785	0.6264	0.66076	ns	2	0	False	Carbohydrate	Nucleotide sugars, pentose metabolism	C00121	HMDB00283
+3-dehydrocarnitine*	18.747	-0.026523	0.98178	-0.48583	0.62783	0.66088	ns	0	0	False	Lipid	Carnitine metabolism		
+serylisoleucine*	15.498	-0.055484	0.96227	-0.47434	0.63598	0.66805	ns	16	5	False	Peptide	Dipeptide		
+palmitoyl sphingomyelin	22.351	-0.047026	0.96793	-0.4657	0.64214	0.6731	ns	1	0	False	Lipid	Sphingolipid		
+1,2-propanediol	18.075	-0.042866	0.97072	-0.44501	0.65699	0.68662	ns	4	6	False	Lipid	Ketone bodies	C00583	HMDB01881
+phytosphingosine	13.565	-0.07917	0.9466	-0.4439	0.65779	0.68662	ns	65	60	False	Lipid	Sphingolipid	C12144	HMDB04610
+gamma-glutamylleucine	15.788	-0.038766	0.97349	-0.44018	0.66047	0.68799	ns	1	0	False	Peptide	gamma-glutamyl		HMDB11171
+2-eicosatrienoylglycerophosphocholine*	16.295	0.077827	1.0554	0.36752	0.71378	0.74197	ns	57	52	False	Lipid	Lysolipid		
+2-linoleoylglycerophosphocholine*	19.522	0.060968	1.0432	0.35219	0.72521	0.7523	ns	0	0	False	Lipid	Lysolipid		
+nicotinamide riboside*	13.665	0.055079	1.0389	0.3281	0.74332	0.76948	ns	49	42	False	Cofactors and vitamins	Nicotinate and nicotinamide metabolism	C03150	
+isoleucylphenylalanine	14.158	0.10849	1.0781	0.31673	0.75191	0.77677	ns	41	26	False	Peptide	Dipeptide		
+3-hydroxybutyrate (BHBA)	22.38	-0.020526	0.98587	-0.29359	0.7695	0.7933	ns	1	0	False	Lipid	Ketone bodies	C01089	HMDB00357
+ornithine	22.134	0.032468	1.0228	0.27642	0.78262	0.80517	ns	1	0	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C00077	HMDB03374
+cysteine	23.776	0.045184	1.0318	0.2621	0.79362	0.81481	ns	1	0	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00097	HMDB00574
+triethyleneglycol	17.673	-0.02387	0.98359	-0.24485	0.80692	0.82677	ns	0	0	False	Xenobiotics	Chemical		
+4-methyl-2-oxopentanoate	11.91	-0.043829	0.97008	-0.22259	0.82417	0.84271	ns	58	54	False	Amino acid	Valine, leucine and isoleucine metabolism	C00233	HMDB00695
+glycylleucine	18.574	0.017047	1.0119	0.17082	0.86461	0.88226	ns	0	0	False	Peptide	Dipeptide	C02155	HMDB00759
+1,5-anhydroglucitol (1,5-AG)	21.047	0.010076	1.007	0.14897	0.88179	0.89795	ns	3	1	False	Carbohydrate	Glycolysis, gluconeogenesis, pyruvate metabolism	C07326	HMDB02712
+taurine	20.764	-0.012524	0.99136	-0.13677	0.8914	0.9059	ns	1	0	False	Amino acid	Cysteine, methionine, SAM, taurine metabolism	C00245	HMDB00251
+myristate (14:0)	20.273	-0.0092023	0.99364	-0.12895	0.89758	0.91032	ns	0	0	False	Lipid	Long chain fatty acid	C06424	HMDB00806
+3-methyl-2-oxovalerate	11.658	-0.01948	0.98659	-0.10195	0.91894	0.9301	ns	62	64	False	Amino acid	Valine, leucine and isoleucine metabolism	C00671	HMDB03736
+alanylvaline	15.775	0.0094365	1.0066	0.06518	0.94812	0.9577	ns	8	2	False	Peptide	Dipeptide		
+alanylisoleucine	14.998	0.0088622	1.0062	0.050056	0.96015	0.96789	ns	19	10	False	Peptide	Dipeptide		
+adenine	17.985	-0.0041416	0.99713	-0.026779	0.97867	0.98458	ns	2	0	False	Nucleotide	Purine metabolism, adenine containing	C00147	HMDB00034
+N-acetylornithine	14.602	-0.0030693	0.99787	-0.022339	0.98221	0.98615	ns	21	15	False	Amino acid	Urea cycle; arginine-, proline-, metabolism	C00437	HMDB03357
+quebrachitol	15.702	-0.0031665	0.99781	-0.017759	0.98586	0.98783	ns	81	70	False	Xenobiotics	Food component/Plant	C08257	
+glutarate (pentanedioate)	13.991	0.000402	1.0003	0.003015	0.9976	0.9976	ns	17	11	False	Amino acid	Lysine metabolism	C00489	HMDB00661
