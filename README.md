@@ -188,7 +188,7 @@ The standard forms of the methods used above, as the lab's code applies them. Me
 **Half-minimum imputation and probabilistic quotient normalisation (PQN).**
 
 $$
-x_{ij} = \tfrac{1}{2} \min_{k} x_{ik} \quad \text{if missing}, \qquad r_i = \operatorname{median}_{j}   x_{ij}, \qquad f_j = \operatorname{median}_{i} \frac{x_{ij}}{r_i}, \qquad y_{ij} = \log_2 \frac{x_{ij}}{f_j}
+x_{ij} = \tfrac{1}{2} \min_{k} x_{ik} \quad \text{if missing}, \qquad r_i = \mathrm{median}_{j}   x_{ij}, \qquad f_j = \mathrm{median}_{i} \frac{x_{ij}}{r_i}, \qquad y_{ij} = \log_2 \frac{x_{ij}}{f_j}
 $$
 
 $x_{ij}$ is the peak area. A value below the detection limit is first set to half the smallest measured value of that metabolite. The reference profile $r_i$ is the median of each metabolite over all samples, and $f_j$ is the most typical ratio of sample $j$ to it, so a more dilute sample has a smaller $f_j$. Dividing by $f_j$ removes the dilution, and the result is log2-transformed.
@@ -236,7 +236,7 @@ $Z$ is the Pareto-scaled data and $y$ codes each sample's tissue as a number. Th
 **Spearman correlation (validation).**
 
 $$
-\rho = \operatorname{corr}\left( \operatorname{rank}(x), \operatorname{rank}(y) \right)
+\rho = \mathrm{corr}\left( \mathrm{rank}(x), \mathrm{rank}(y) \right)
 $$
 
 The correlation of the ranks of the fold changes in the main cohort ($x$) and the independent cohort ($y$). It measures agreement in order, without assuming a straight-line relation.
