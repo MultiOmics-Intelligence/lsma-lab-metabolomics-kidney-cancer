@@ -181,6 +181,66 @@ Every step below is a stage in the LSMA Analysis Lab, run with the settings in [
 
 **Software:** R 4.5.2 and Bioconductor 3.21, with limma and ropls, in the versions listed in the settings file.
 
+## The mathematics behind the methods
+
+The standard forms of the methods used above, as the lab's code applies them. Metabolite $i$, sample $j$.
+
+**Half-minimum imputation and probabilistic quotient normalisation (PQN).**
+
+$$
+x_{ij} = \tfrac{1}{2} \min_{k} x_{ik} \quad \text{if missing}, \qquad r_i = \operatorname{median}_{j}   x_{ij}, \qquad f_j = \operatorname{median}_{i} \frac{x_{ij}}{r_i}, \qquad y_{ij} = \log_2 \frac{x_{ij}}{f_j}
+$$
+
+$x_{ij}$ is the peak area. A value below the detection limit is first set to half the smallest measured value of that metabolite. The reference profile $r_i$ is the median of each metabolite over all samples, and $f_j$ is the most typical ratio of sample $j$ to it, so a more dilute sample has a smaller $f_j$. Dividing by $f_j$ removes the dilution, and the result is log2-transformed.
+
+**Pareto scaling.**
+
+$$
+z_{ij} = \frac{y_{ij} - \bar y_i}{\sqrt{s_i}}
+$$
+
+$\bar y_i$ and $s_i$ are the mean and standard deviation of metabolite $i$. Dividing by the square root of the standard deviation (not by the standard deviation itself) keeps large changes important without letting the noisiest metabolites dominate. It is used for the PCA and the OPLS-DA model.
+
+**Linear model with the paired design (`~ patient + tissue`).**
+
+$$
+y_{ij} = \beta_{i0} + \gamma_{i,p(j)} + \beta_{i1} x_j + \varepsilon_{ij}, \qquad \varepsilon_{ij} \sim \mathcal{N}(0, \sigma_i^2)
+$$
+
+$x_j$ is 1 for a tumour and 0 for normal kidney, and $\gamma_{i,p(j)}$ is the effect of the patient $p(j)$. So $\beta_{i1}$ is the log2 fold change of tumour over normal within the same patient. (The code fits one mean per tissue plus the patient terms and takes the contrast tumour − normal, which gives the same estimate.)
+
+**limma moderated t-statistic.**
+
+$$
+\tilde t_i = \frac{\hat\beta_{i1}}{\tilde s_i \sqrt{v_i}}, \qquad \tilde s_i^2 = \frac{d_0 s_0^2 + d_i s_i^2}{d_0 + d_i}
+$$
+
+$s_i^2$ is the metabolite's residual variance on $d_i$ degrees of freedom, and $v_i$ the unscaled variance of the contrast from the design. Empirical Bayes estimates one prior variance $s_0^2$ on $d_0$ degrees of freedom from all metabolites, which steadies the variance of each one. $\tilde t_i$ is compared with a t distribution on $d_0 + d_i$ degrees of freedom.
+
+**Benjamini–Hochberg adjustment.**
+
+$$
+p^{\text{adj}}_{(k)} = \min_{l \ge k}   \min\left( 1, \frac{m   p_{(l)}}{l} \right)
+$$
+
+$p_{(1)} \le \dots \le p_{(m)}$ are the sorted p-values of the $m$ metabolites tested. Calling metabolites at adjusted p < 0.05 keeps the expected share of false discoveries at 5%.
+
+**OPLS-DA, cross-validation and the permutation test.**
+
+$$
+Z = t_p   p_p^{\mathsf T} + T_o P_o^{\mathsf T} + E, \qquad y = t_p   c + f, \qquad Q^2 = 1 - \frac{\sum_j (y_j - \hat y_{(j)})^2}{\sum_j (y_j - \bar y)^2}
+$$
+
+$Z$ is the Pareto-scaled data and $y$ codes each sample's tissue as a number. The predictive component $t_p$ carries the variation in $Z$ that predicts $y$; the orthogonal components $T_o$ carry variation unrelated to the groups. In $Q^2$, $\hat y_{(j)}$ is the prediction for sample $j$ from a model built without it (7-fold cross-validation), so $Q^2$ measures prediction of unseen samples, while $R^2Y$ only measures the fit to the samples the model was built on. The labels were shuffled 200 times and the model refitted each time; the permutation p-value is based on how many shuffled models reach the real model's $Q^2$. VIP ranks each metabolite's contribution to the model; values above 1 are above average.
+
+**Spearman correlation (validation).**
+
+$$
+\rho = \operatorname{corr}\left( \operatorname{rank}(x), \operatorname{rank}(y) \right)
+$$
+
+The correlation of the ranks of the fold changes in the main cohort ($x$) and the independent cohort ($y$). It measures agreement in order, without assuming a straight-line relation.
+
 ---
 
 ## Validation
